@@ -1,5 +1,5 @@
 # robosoft
-Terminal for programming (offline and online) robots from Intelitek using ACL language
+Terminal for programming (offline and online) robots from [Intelitek](https://www.intelitek.com/), formerly knonwn as Eshed Robotec, using the ACL language.
 
 This is the new home of the Robosoft Simulator previosully hosted at SourceForge.
 
