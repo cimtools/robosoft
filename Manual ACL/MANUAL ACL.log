@@ -1,0 +1,31 @@
+Microsoft (R) Help Compiler
+HCRTF 4.03.0002
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+manual acl.hpj
+    HC3025: Warning: topic #24 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "RUN".
+    HC3025: Warning: topic #24 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "EXIT".
+    HC3025: Warning: topic #3 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "send".
+    HC3025: Warning: topic #24 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "PRIOR".
+    HC3025: Warning: topic #12 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "APENDICE A".
+    HC3025: Warning: topic #50 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "Apendice B".
+    HC3025: Warning: topic #9 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "SENDCOM".
+    HC3025: Warning: topic #3 of C:\Programas delphi\RoboSoft FULL\Manual ACL\MANUAL ACL.rtf : 
+	Jump to undefined Topic ID: "receive".
+123	Topics
+33	Jumps
+124	Keywords
+4	Bitmaps
+
+
+Created c:\programas delphi\robosoft full\manual acl\manual acl.hlp, 126,217 bytes
+Bitmaps: 1,496 bytes
+Phrase compression decreased help file by 6,660 bytes.
+Compile time: 0 minutes, 0 seconds
+0 notes, 8 warnings

@@ -1,0 +1,5 @@
+:Base ACL.hlp
+:Title ACL
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 A=SHM_contents0001@ACL.hlp

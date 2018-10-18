@@ -1,0 +1,3817 @@
+##v##00.4.50
+EditHelpFileTitle.Text=MANUAL ACL
+form2.STextForeHeadline.Color=16777215
+form2.STextForeText.Color=0
+form2.STextBackHeadline.Color=12845056
+form2.STextBackText.Color=14876671
+form2.STextHeadlineFont.Caption=Arial
+form2.STextTextFont.Caption=Arial
+form2.sTextFontSizeForHeadline.Caption=12
+form2.sTextFontSizeForText.Caption=9
+form2.CBoxBold.Checked=1
+form2.CBoxNoForeColor.Checked=0
+form2.CBoxLanguageID.ItemIndex=0
+form2.CBoxCharSet.ItemIndex=0
+form2.EditContents.Text=Contents
+form2.EditFrontpageName.Text=Front page with index
+form2.CBoxDontMakeFrontpage.Checked=1
+form2.EditLogoPath.Text=
+form2.EditFrontpageButtonCaption.Text=Front page
+form2.RGroupHorizontalAlignment.ItemIndex=0
+form2.RGroupVerticalAlignment.ItemIndex=0
+form2.CBoxBlankLineBeforeEachHeading.Checked=1
+form2.CBoxMakeFrontPageButton.Checked=0
+form2.SpinEditFrontpageIDnumber.Value=9999
+form2.CBoxAddAboutMenu.Checked=0
+form2.EditAboutMenuCaption.Text=&About this help file...
+form2.CBoxPopupPagesForAboutMenu.Tag=-1
+form2.EditConstantNameFilePrefix.Text=pageConstants_
+form2.EditConstantNameFileExt.Text=txt
+form5.sTextColor1=0
+form5.sTextColor2=9743070
+form5.sTextColor3=12386403
+form5.sTextColor4=255
+form5.sTextColor5=8421376
+form5.sTextColor6=8650752
+form5.sTextColor7=33280
+form5.sTextColor8=32896
+form5.sTextColor9=13026246
+form5.sTextColor10=16711680
+form5.sTextColor11=65280
+form5.sTextColor12=8651007
+form5.sTextColor13=16777215
+form5.sTextColor14=16757429
+form5.sTextColor15=9764863
+form5.sTextColor16=8421504
+form5.sTextComment1=
+form5.sTextComment2=
+form5.sTextComment3=
+form5.sTextComment4=
+form5.sTextComment5=
+form5.sTextComment6=
+form5.sTextComment7=
+form5.sTextComment8=
+form5.sTextComment9=
+form5.sTextComment10=
+form5.sTextComment11=
+form5.sTextComment12=
+form5.sTextComment13=
+form5.sTextComment14=
+form5.sTextComment15=
+form5.sTextComment16=
+NumOfPages=106
+------------ end of project settings / page settings follow ------------
+pageC.pages[0].ImageIndex=-1
+pageTitle(0).Text=A (Abort)
+getPageConstantLabel(0).Caption=
+getPageContentHeaderLabel(0).Caption=
+pageKeywords(0).Text=Abort
+pageC.pages[1].ImageIndex=-1
+pageTitle(1).Text=ANDIF
+getPageConstantLabel(1).Caption=
+getPageContentHeaderLabel(1).Caption=
+pageKeywords(1).Text=
+pageC.pages[2].ImageIndex=-1
+pageTitle(2).Text=APPEND
+getPageConstantLabel(2).Caption=
+getPageContentHeaderLabel(2).Caption=
+pageKeywords(2).Text=
+pageC.pages[3].ImageIndex=-1
+pageTitle(3).Text=ATTACH
+getPageConstantLabel(3).Caption=
+getPageContentHeaderLabel(3).Caption=
+pageKeywords(3).Text=
+pageC.pages[4].ImageIndex=-1
+pageTitle(4).Text=AUTO
+getPageConstantLabel(4).Caption=
+getPageContentHeaderLabel(4).Caption=
+pageKeywords(4).Text=
+pageC.pages[5].ImageIndex=-1
+pageTitle(5).Text=CLOSE
+getPageConstantLabel(5).Caption=
+getPageContentHeaderLabel(5).Caption=
+pageKeywords(5).Text=
+pageC.pages[6].ImageIndex=-1
+pageTitle(6).Text=CLR
+getPageConstantLabel(6).Caption=
+getPageContentHeaderLabel(6).Caption=
+pageKeywords(6).Text=
+pageC.pages[7].ImageIndex=-1
+pageTitle(7).Text=CLRBUF
+getPageConstantLabel(7).Caption=
+getPageContentHeaderLabel(7).Caption=
+pageKeywords(7).Text=
+pageC.pages[8].ImageIndex=-1
+pageTitle(8).Text=CLRCOM
+getPageConstantLabel(8).Caption=
+getPageContentHeaderLabel(8).Caption=
+pageKeywords(8).Text=
+pageC.pages[9].ImageIndex=-1
+pageTitle(9).Text=COFF
+getPageConstantLabel(9).Caption=
+getPageContentHeaderLabel(9).Caption=
+pageKeywords(9).Text=
+pageC.pages[10].ImageIndex=-1
+pageTitle(10).Text=CON
+getPageConstantLabel(10).Caption=
+getPageContentHeaderLabel(10).Caption=
+pageKeywords(10).Text=
+pageC.pages[11].ImageIndex=-1
+pageTitle(11).Text=CONFIG
+getPageConstantLabel(11).Caption=
+getPageContentHeaderLabel(11).Caption=
+pageKeywords(11).Text=
+pageC.pages[12].ImageIndex=-1
+pageTitle(12).Text=CONTINUE
+getPageConstantLabel(12).Caption=
+getPageContentHeaderLabel(12).Caption=
+pageKeywords(12).Text=
+pageC.pages[13].ImageIndex=-1
+pageTitle(13).Text=COPY
+getPageConstantLabel(13).Caption=
+getPageContentHeaderLabel(13).Caption=
+pageKeywords(13).Text=
+pageC.pages[14].ImageIndex=-1
+pageTitle(14).Text=DEFINE
+getPageConstantLabel(14).Caption=
+getPageContentHeaderLabel(14).Caption=
+pageKeywords(14).Text=
+pageC.pages[15].ImageIndex=-1
+pageTitle(15).Text=DEFP
+getPageConstantLabel(15).Caption=
+getPageContentHeaderLabel(15).Caption=
+pageKeywords(15).Text=
+pageC.pages[16].ImageIndex=-1
+pageTitle(16).Text=DEL
+getPageConstantLabel(16).Caption=
+getPageContentHeaderLabel(16).Caption=
+pageKeywords(16).Text=
+pageC.pages[17].ImageIndex=-1
+pageTitle(17).Text=DELAY
+getPageConstantLabel(17).Caption=
+getPageContentHeaderLabel(17).Caption=
+pageKeywords(17).Text=
+pageC.pages[18].ImageIndex=-1
+pageTitle(18).Text=DELP
+getPageConstantLabel(18).Caption=
+getPageContentHeaderLabel(18).Caption=
+pageKeywords(18).Text=
+pageC.pages[19].ImageIndex=-1
+pageTitle(19).Text=DELVAR 
+getPageConstantLabel(19).Caption=
+getPageContentHeaderLabel(19).Caption=
+pageKeywords(19).Text=
+pageC.pages[20].ImageIndex=-1
+pageTitle(20).Text=DIM
+getPageConstantLabel(20).Caption=
+getPageContentHeaderLabel(20).Caption=
+pageKeywords(20).Text=
+pageC.pages[21].ImageIndex=-1
+pageTitle(21).Text=DIMG
+getPageConstantLabel(21).Caption=
+getPageContentHeaderLabel(21).Caption=
+pageKeywords(21).Text=
+pageC.pages[22].ImageIndex=-1
+pageTitle(22).Text=DIMP
+getPageConstantLabel(22).Caption=
+getPageContentHeaderLabel(22).Caption=
+pageKeywords(22).Text=
+pageC.pages[23].ImageIndex=-1
+pageTitle(23).Text=DIR
+getPageConstantLabel(23).Caption=
+getPageContentHeaderLabel(23).Caption=
+pageKeywords(23).Text=
+pageC.pages[24].ImageIndex=-1
+pageTitle(24).Text=DISABLE
+getPageConstantLabel(24).Caption=
+getPageContentHeaderLabel(24).Caption=
+pageKeywords(24).Text=
+pageC.pages[25].ImageIndex=-1
+pageTitle(25).Text=DO
+getPageConstantLabel(25).Caption=
+getPageContentHeaderLabel(25).Caption=
+pageKeywords(25).Text=
+pageC.pages[26].ImageIndex=-1
+pageTitle(26).Text=ECHO
+getPageConstantLabel(26).Caption=
+getPageContentHeaderLabel(26).Caption=
+pageKeywords(26).Text=
+pageC.pages[27].ImageIndex=-1
+pageTitle(27).Text=EDIT
+getPageConstantLabel(27).Caption=
+getPageContentHeaderLabel(27).Caption=
+pageKeywords(27).Text=
+pageC.pages[28].ImageIndex=-1
+pageTitle(28).Text=ELSE
+getPageConstantLabel(28).Caption=
+getPageContentHeaderLabel(28).Caption=
+pageKeywords(28).Text=
+pageC.pages[29].ImageIndex=-1
+pageTitle(29).Text=ENABLE
+getPageConstantLabel(29).Caption=
+getPageContentHeaderLabel(29).Caption=
+pageKeywords(29).Text=
+pageC.pages[30].ImageIndex=-1
+pageTitle(30).Text=END
+getPageConstantLabel(30).Caption=
+getPageContentHeaderLabel(30).Caption=
+pageKeywords(30).Text=
+pageC.pages[31].ImageIndex=-1
+pageTitle(31).Text=ENDFOR
+getPageConstantLabel(31).Caption=
+getPageContentHeaderLabel(31).Caption=
+pageKeywords(31).Text=
+pageC.pages[32].ImageIndex=-1
+pageTitle(32).Text=ENDIF
+getPageConstantLabel(32).Caption=
+getPageContentHeaderLabel(32).Caption=
+pageKeywords(32).Text=
+pageC.pages[33].ImageIndex=-1
+pageTitle(33).Text=< Enter >
+getPageConstantLabel(33).Caption=
+getPageContentHeaderLabel(33).Caption=
+pageKeywords(33).Text=
+pageC.pages[34].ImageIndex=-1
+pageTitle(34).Text=EXIT
+getPageConstantLabel(34).Caption=
+getPageContentHeaderLabel(34).Caption=
+pageKeywords(34).Text=
+pageC.pages[35].ImageIndex=-1
+pageTitle(35).Text=EXACT
+getPageConstantLabel(35).Caption=
+getPageContentHeaderLabel(35).Caption=
+pageKeywords(35).Text=
+pageC.pages[36].ImageIndex=-1
+pageTitle(36).Text=FOR
+getPageConstantLabel(36).Caption=
+getPageContentHeaderLabel(36).Caption=
+pageKeywords(36).Text=
+pageC.pages[37].ImageIndex=-1
+pageTitle(37).Text=FORCE
+getPageConstantLabel(37).Caption=
+getPageContentHeaderLabel(37).Caption=
+pageKeywords(37).Text=
+pageC.pages[38].ImageIndex=-1
+pageTitle(38).Text=FREE
+getPageConstantLabel(38).Caption=
+getPageContentHeaderLabel(38).Caption=
+pageKeywords(38).Text=
+pageC.pages[39].ImageIndex=-1
+pageTitle(39).Text=GET
+getPageConstantLabel(39).Caption=
+getPageContentHeaderLabel(39).Caption=
+pageKeywords(39).Text=
+pageC.pages[40].ImageIndex=-1
+pageTitle(40).Text=GETCOM
+getPageConstantLabel(40).Caption=
+getPageContentHeaderLabel(40).Caption=
+pageKeywords(40).Text=
+pageC.pages[41].ImageIndex=-1
+pageTitle(41).Text=GLOBAL
+getPageConstantLabel(41).Caption=
+getPageContentHeaderLabel(41).Caption=
+pageKeywords(41).Text=
+pageC.pages[42].ImageIndex=-1
+pageTitle(42).Text=GOSUB
+getPageConstantLabel(42).Caption=
+getPageContentHeaderLabel(42).Caption=
+pageKeywords(42).Text=
+pageC.pages[43].ImageIndex=-1
+pageTitle(43).Text=GOTO
+getPageConstantLabel(43).Caption=
+getPageContentHeaderLabel(43).Caption=
+pageKeywords(43).Text=
+pageC.pages[44].ImageIndex=-1
+pageTitle(44).Text=HELP
+getPageConstantLabel(44).Caption=
+getPageContentHeaderLabel(44).Caption=
+pageKeywords(44).Text=
+pageC.pages[45].ImageIndex=-1
+pageTitle(45).Text=HERE
+getPageConstantLabel(45).Caption=
+getPageContentHeaderLabel(45).Caption=
+pageKeywords(45).Text=
+pageC.pages[46].ImageIndex=-1
+pageTitle(46).Text=HERER
+getPageConstantLabel(46).Caption=
+getPageContentHeaderLabel(46).Caption=
+pageKeywords(46).Text=
+pageC.pages[47].ImageIndex=-1
+pageTitle(47).Text=HOME/HHOME
+getPageConstantLabel(47).Caption=
+getPageContentHeaderLabel(47).Caption=
+pageKeywords(47).Text=
+pageC.pages[48].ImageIndex=-1
+pageTitle(48).Text=IF
+getPageConstantLabel(48).Caption=
+getPageContentHeaderLabel(48).Caption=
+pageKeywords(48).Text=
+pageC.pages[49].ImageIndex=-1
+pageTitle(49).Text=INIT
+getPageConstantLabel(49).Caption=
+getPageContentHeaderLabel(49).Caption=
+pageKeywords(49).Text=
+pageC.pages[50].ImageIndex=-1
+pageTitle(50).Text=INT
+getPageConstantLabel(50).Caption=
+getPageContentHeaderLabel(50).Caption=
+pageKeywords(50).Text=
+pageC.pages[51].ImageIndex=-1
+pageTitle(51).Text=JAW
+getPageConstantLabel(51).Caption=
+getPageContentHeaderLabel(51).Caption=
+pageKeywords(51).Text=
+pageC.pages[52].ImageIndex=-1
+pageTitle(52).Text=L
+getPageConstantLabel(52).Caption=
+getPageContentHeaderLabel(52).Caption=
+pageKeywords(52).Text=
+pageC.pages[53].ImageIndex=-1
+pageTitle(53).Text=LABEL
+getPageConstantLabel(53).Caption=
+getPageContentHeaderLabel(53).Caption=
+pageKeywords(53).Text=
+pageC.pages[54].ImageIndex=-1
+pageTitle(54).Text=LET PAR
+getPageConstantLabel(54).Caption=
+getPageContentHeaderLabel(54).Caption=
+pageKeywords(54).Text=
+pageC.pages[55].ImageIndex=-1
+pageTitle(55).Text=LIST
+getPageConstantLabel(55).Caption=
+getPageContentHeaderLabel(55).Caption=
+pageKeywords(55).Text=
+pageC.pages[56].ImageIndex=-1
+pageTitle(56).Text=LISTP
+getPageConstantLabel(56).Caption=
+getPageContentHeaderLabel(56).Caption=
+pageKeywords(56).Text=
+pageC.pages[57].ImageIndex=-1
+pageTitle(57).Text=LISTPV
+getPageConstantLabel(57).Caption=
+getPageContentHeaderLabel(57).Caption=
+pageKeywords(57).Text=
+pageC.pages[58].ImageIndex=-1
+pageTitle(58).Text=LISTVAR
+getPageConstantLabel(58).Caption=
+getPageContentHeaderLabel(58).Caption=
+pageKeywords(58).Text=
+pageC.pages[59].ImageIndex=-1
+pageTitle(59).Text=LSON/LSOFF
+getPageConstantLabel(59).Caption=
+getPageContentHeaderLabel(59).Caption=
+pageKeywords(59).Text=
+pageC.pages[60].ImageIndex=-1
+pageTitle(60).Text=MOVE/MOVED
+getPageConstantLabel(60).Caption=
+getPageContentHeaderLabel(60).Caption=
+pageKeywords(60).Text=
+pageC.pages[61].ImageIndex=-1
+pageTitle(61).Text=MOVEC/MOVECD
+getPageConstantLabel(61).Caption=
+getPageContentHeaderLabel(61).Caption=
+pageKeywords(61).Text=
+pageC.pages[62].ImageIndex=-1
+pageTitle(62).Text=MOVEL/MOVELD
+getPageConstantLabel(62).Caption=
+getPageContentHeaderLabel(62).Caption=
+pageKeywords(62).Text=
+pageC.pages[63].ImageIndex=-1
+pageTitle(63).Text=MOVES/MOVESD
+getPageConstantLabel(63).Caption=
+getPageContentHeaderLabel(63).Caption=
+pageKeywords(63).Text=
+pageC.pages[64].ImageIndex=-1
+pageTitle(64).Text=MPROFILE
+getPageConstantLabel(64).Caption=
+getPageContentHeaderLabel(64).Caption=
+pageKeywords(64).Text=
+pageC.pages[65].ImageIndex=-1
+pageTitle(65).Text=NOECHO
+getPageConstantLabel(65).Caption=
+getPageContentHeaderLabel(65).Caption=
+pageKeywords(65).Text=
+pageC.pages[66].ImageIndex=-1
+pageTitle(66).Text=NOQUIET
+getPageConstantLabel(66).Caption=
+getPageContentHeaderLabel(66).Caption=
+pageKeywords(66).Text=
+pageC.pages[67].ImageIndex=-1
+pageTitle(67).Text=OPEN
+getPageConstantLabel(67).Caption=
+getPageContentHeaderLabel(67).Caption=
+pageKeywords(67).Text=
+pageC.pages[68].ImageIndex=-1
+pageTitle(68).Text=ORIF
+getPageConstantLabel(68).Caption=
+getPageContentHeaderLabel(68).Caption=
+pageKeywords(68).Text=
+pageC.pages[69].ImageIndex=-1
+pageTitle(69).Text=P
+getPageConstantLabel(69).Caption=
+getPageContentHeaderLabel(69).Caption=
+pageKeywords(69).Text=
+pageC.pages[70].ImageIndex=-1
+pageTitle(70).Text=PEND/POST
+getPageConstantLabel(70).Caption=
+getPageContentHeaderLabel(70).Caption=
+pageKeywords(70).Text=
+pageC.pages[71].ImageIndex=-1
+pageTitle(71).Text=PRCOM
+getPageConstantLabel(71).Caption=
+getPageContentHeaderLabel(71).Caption=
+pageKeywords(71).Text=
+pageC.pages[72].ImageIndex=-1
+pageTitle(72).Text=PRINT
+getPageConstantLabel(72).Caption=
+getPageContentHeaderLabel(72).Caption=
+pageKeywords(72).Text=
+pageC.pages[73].ImageIndex=-1
+pageTitle(73).Text=PRINTLN
+getPageConstantLabel(73).Caption=
+getPageContentHeaderLabel(73).Caption=
+pageKeywords(73).Text=
+pageC.pages[74].ImageIndex=-1
+pageTitle(74).Text=PRIORITY
+getPageConstantLabel(74).Caption=
+getPageContentHeaderLabel(74).Caption=
+pageKeywords(74).Text=
+pageC.pages[75].ImageIndex=-1
+pageTitle(75).Text=PRLNCOM
+getPageConstantLabel(75).Caption=
+getPageContentHeaderLabel(75).Caption=
+pageKeywords(75).Text=
+pageC.pages[76].ImageIndex=-1
+pageTitle(76).Text=QPEND/QPOST
+getPageConstantLabel(76).Caption=
+getPageContentHeaderLabel(76).Caption=
+pageKeywords(76).Text=
+pageC.pages[77].ImageIndex=-1
+pageTitle(77).Text=QUIET
+getPageConstantLabel(77).Caption=
+getPageContentHeaderLabel(77).Caption=
+pageKeywords(77).Text=
+pageC.pages[78].ImageIndex=-1
+pageTitle(78).Text=READ
+getPageConstantLabel(78).Caption=
+getPageContentHeaderLabel(78).Caption=
+pageKeywords(78).Text=
+pageC.pages[79].ImageIndex=-1
+pageTitle(79).Text=READCOM
+getPageConstantLabel(79).Caption=
+getPageContentHeaderLabel(79).Caption=
+pageKeywords(79).Text=
+pageC.pages[80].ImageIndex=-1
+pageTitle(80).Text=RECEIVE
+getPageConstantLabel(80).Caption=
+getPageContentHeaderLabel(80).Caption=
+pageKeywords(80).Text=
+pageC.pages[81].ImageIndex=-1
+pageTitle(81).Text=REMOVE
+getPageConstantLabel(81).Caption=
+getPageContentHeaderLabel(81).Caption=
+pageKeywords(81).Text=
+pageC.pages[82].ImageIndex=-1
+pageTitle(82).Text=RENAME
+getPageConstantLabel(82).Caption=
+getPageContentHeaderLabel(82).Caption=
+pageKeywords(82).Text=
+pageC.pages[83].ImageIndex=-1
+pageTitle(83).Text=RUN
+getPageConstantLabel(83).Caption=
+getPageContentHeaderLabel(83).Caption=
+pageKeywords(83).Text=
+pageC.pages[84].ImageIndex=-1
+pageTitle(84).Text=S
+getPageConstantLabel(84).Caption=
+getPageContentHeaderLabel(84).Caption=
+pageKeywords(84).Text=
+pageC.pages[85].ImageIndex=-1
+pageTitle(85).Text=SENCOM
+getPageConstantLabel(85).Caption=
+getPageContentHeaderLabel(85).Caption=
+pageKeywords(85).Text=
+pageC.pages[86].ImageIndex=-1
+pageTitle(86).Text=SEND
+getPageConstantLabel(86).Caption=
+getPageContentHeaderLabel(86).Caption=
+pageKeywords(86).Text=
+pageC.pages[87].ImageIndex=-1
+pageTitle(87).Text=SET
+getPageConstantLabel(87).Caption=
+getPageContentHeaderLabel(87).Caption=
+pageKeywords(87).Text=
+pageC.pages[88].ImageIndex=-1
+pageTitle(88).Text=SETP
+getPageConstantLabel(88).Caption=
+getPageContentHeaderLabel(88).Caption=
+pageKeywords(88).Text=
+pageC.pages[89].ImageIndex=-1
+pageTitle(89).Text=SETPV
+getPageConstantLabel(89).Caption=
+getPageContentHeaderLabel(89).Caption=
+pageKeywords(89).Text=
+pageC.pages[90].ImageIndex=-1
+pageTitle(90).Text=SETPVC
+getPageConstantLabel(90).Caption=
+getPageContentHeaderLabel(90).Caption=
+pageKeywords(90).Text=
+pageC.pages[91].ImageIndex=-1
+pageTitle(91).Text=SHIFT/SHIFTC
+getPageConstantLabel(91).Caption=
+getPageContentHeaderLabel(91).Caption=
+pageKeywords(91).Text=
+pageC.pages[92].ImageIndex=-1
+pageTitle(92).Text=SHOW
+getPageConstantLabel(92).Caption=
+getPageContentHeaderLabel(92).Caption=
+pageKeywords(92).Text=
+pageC.pages[93].ImageIndex=-1
+pageTitle(93).Text=SPEED
+getPageConstantLabel(93).Caption=
+getPageContentHeaderLabel(93).Caption=
+pageKeywords(93).Text=
+pageC.pages[94].ImageIndex=-1
+pageTitle(94).Text=STAT
+getPageConstantLabel(94).Caption=
+getPageContentHeaderLabel(94).Caption=
+pageKeywords(94).Text=
+pageC.pages[95].ImageIndex=-1
+pageTitle(95).Text=STOP
+getPageConstantLabel(95).Caption=
+getPageContentHeaderLabel(95).Caption=
+pageKeywords(95).Text=
+pageC.pages[96].ImageIndex=-1
+pageTitle(96).Text=SUSPEND
+getPageConstantLabel(96).Caption=
+getPageContentHeaderLabel(96).Caption=
+pageKeywords(96).Text=
+pageC.pages[97].ImageIndex=-1
+pageTitle(97).Text=TEACH
+getPageConstantLabel(97).Caption=
+getPageContentHeaderLabel(97).Caption=
+pageKeywords(97).Text=
+pageC.pages[98].ImageIndex=-1
+pageTitle(98).Text=TEACHR
+getPageConstantLabel(98).Caption=
+getPageContentHeaderLabel(98).Caption=
+pageKeywords(98).Text=
+pageC.pages[99].ImageIndex=-1
+pageTitle(99).Text=TEST
+getPageConstantLabel(99).Caption=
+getPageContentHeaderLabel(99).Caption=
+pageKeywords(99).Text=
+pageC.pages[100].ImageIndex=-1
+pageTitle(100).Text=TON/TOFF
+getPageConstantLabel(100).Caption=
+getPageContentHeaderLabel(100).Caption=
+pageKeywords(100).Text=
+pageC.pages[101].ImageIndex=-1
+pageTitle(101).Text=TRIGGER
+getPageConstantLabel(101).Caption=
+getPageContentHeaderLabel(101).Caption=
+pageKeywords(101).Text=
+pageC.pages[102].ImageIndex=-1
+pageTitle(102).Text=UNDEF
+getPageConstantLabel(102).Caption=
+getPageContentHeaderLabel(102).Caption=
+pageKeywords(102).Text=
+pageC.pages[103].ImageIndex=-1
+pageTitle(103).Text=VER
+getPageConstantLabel(103).Caption=
+getPageContentHeaderLabel(103).Caption=
+pageKeywords(103).Text=
+pageC.pages[104].ImageIndex=-1
+pageTitle(104).Text=WAIT
+getPageConstantLabel(104).Caption=
+getPageContentHeaderLabel(104).Caption=
+pageKeywords(104).Text=
+pageC.pages[105].ImageIndex=-1
+pageTitle(105).Text=* (COMENTÁRIO)
+getPageConstantLabel(105).Caption=
+getPageContentHeaderLabel(105).Caption=
+pageKeywords(105).Text=
+pageC.pages[106].ImageIndex=-1
+pageTitle(106).Text=(Controle Manual do Robô) ~
+getPageConstantLabel(106).Caption=
+getPageContentHeaderLabel(106).Caption=
+pageKeywords(106).Text=
+------------ end of page titles / full text of pages follow ------------
+----- SHM ---- page 0 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+A {<<i>prog></i>}
+Onde: <<i>prog</i>> é um programa.
+
+<b>Descrição:</b>
+
+<color=6b>A</color>
+<bullet.bmp> Imediatamente aborta todos os programas em andamento e para o movimento dos eixos.
+
+<color=6b>A <<i>prog</i>></color> 
+<bullet.bmp> Aborta apenas o andamento do programa especificado.
+
+<c><bullet.bmp> O comando A <<i>prog</i>> aborta o programa mas não afeta o comando de movimento já atribuido ao programa. <bullet.bmp></c>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> A 	
+<bullet.bmp> Aborta todos os programas.
+
+<chiclet.bmp> A NEW 
+<bullet.bmp> Aborta o programa NEW
+----- SHM ---- page 1 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:	</b>	
+
+ANDIF <<i>var1</i>> <<i>cond</i>> <<i>var2</i>>
+
+Onde: 
+<bullet.bmp> <<i>var1</i>> e <<i>var2</i>> são variáveis definidas ou constantes
+<bullet.bmp> <<i>cond</i>> podem ser: <, >, =, < =, > =, < >
+
+<b>Descrição:</b>
+
+<bullet.bmp>Um tipo de comando IF, ANDIF, se combinam com a condição e outros comandos IF.
+
+<b>Exemplos:</b>
+<chiclet.bmp> IF A=B
+      ANDIF C>2
+      CLOSE
+      ELSE
+      OPEN
+      ENDIF
+
+<b>Nota:</b>
+<bullet.bmp> <jump=if>Vide comando IF</jump>
+----- SHM ---- page 2 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+APPEND
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> Carrega o conteúdo do arquivo back-up do computador para dentro da USER RAM do controlador. Similar ao comando <jump=receive>RECEIVE</jump>, mas <b>não</b> apaga ou modifica um programa existente.
+
+<bullet.bmp> O arquivo deve ser em formato gerado pelo comado <jump=send>SEND</jump>.
+
+<bullet.bmp> Novos programas são aceitáveis.
+
+<bullet.bmp> Novas variáveis são aceitáveis.
+
+<bullet.bmp> Novas posições são aceitáveis. Posições existentes cujos valores de localização não foram setados, terão novos valores atribuidos.
+
+<b>Nota:</b> Vide comando <jump=send>SEND</jump> e <jump=receive>RECEIVE</jump>.
+----- SHM ---- page 3 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+ATTACH <<i>pvect</i>>
+ATTACH OFFA/B/C
+ATTACH ?
+
+<b>Descrição:</b>
+
+<color=6b>ATTACH <<i>pvect</i>>:</color>
+<bullet.bmp> Conecta o vetor de posição especificado ao teach pendant de acordo com o grupo ao qual o vetor de posição pertence.
+<bullet.bmp> Quando um vetor é conectado ao teach pendant, todas as referências a este grupo referem-se aos ítens conectados ao vetor.
+<bullet.bmp> Apenas um vetor por vez pode ser conectado ao grupo. Conectar outro de posição irá cancelar a conexão anterior.
+
+<color=6b>ATTACH OFFA/B/C:</color>
+<bullet.bmp> Desconecta o vetor de posição do teach pendant de acordo com o grupo especificado.
+
+<color=6b>ATTACH ?</color>
+<bullet.bmp> Mostra o status atual do ATTACH na tela.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DIMP ALPHA[20]
+      ATTACH ALPHA
+- Define um vetor de posição nomeado ALPHA contendo 20 posições (grupo A). 
+Conecta vetor ALPHA ao teach pendant. Uma referencia do teach pendant para a posição 15 irá agora referir-se a posição ALPHA[15]. 
+
+<chiclet.bmp> ATTACH OFFA
+- Desconecta o vetor do grupo A do teach pendant. 
+ 
+
+						
+----- SHM ---- page 4 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Um nome de arquivo reservado para um programa, o qual roda automaticamente quando o controlador é ligado ou desligado. O arquivo AUTO é crIado no modo EDIÇÃO como qualquer programa. Ele é usado para mudar do MODO DIRETO para o MODO de EDIÇÃO.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> AUTO programa
+*************************************
+HOME
+RUN OPER
+END
+
+<onestep.bmp> Neste exemplo, quando o sistema é ligado, o robo automaticamente procura por seu ROME, e inicia a execução do programa OPER.
+----- SHM ---- page 5 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>CLOSE</target>
+<b>Formato:</b>	
+
+CLOSE <<i>var</i>>
+Quando: <i><var></i> é uma variável ou constante user definida O <= <i>var</i> <= 5000
+
+<b>Descrição:</b>
+
+<color=6b>CLOSE:</color>
+<bullet.bmp> Fecha a garra até o fim do movimento da garra.
+
+<color=6b>CLOSE <<i>var</i>>:</color>
+<bullet.bmp> A variável ou uma constante é setada para a garra DAC para manter potência no motor da garra para força adicional de fechamento. A força é proporcional  a <<i>var</i>>.
+
+<c><bullet.bmp> O comando CLOSE disconecta o eixo da garra do loop de servo controle. <bullet.bmp></c>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> CLOSE 
+<bullet.bmp> Fecha a guarra.
+
+<chiclet.bmp> CLOSE 1000 
+<bullet.bmp> Seta o valor DAC da garra para lOOO.
+ 
+<chiclet.bmp> CLOSE PRESS
+<bullet.bmp> Seta a força ativa da garra para o valor de PRESS.
+
+<b>Nota:</b> Vide o comando <jump=open>OPEN</jump>. 
+						
+----- SHM ---- page 6 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+CLR {< <<i>n</i>>>}
+Quando: <i><n></i> é o número do encoder, 1 <= <i>n</i> <= 11.
+
+<b>Descrição:</b>
+
+<bullet.bmp> Limpa (seta para zero) os valores do encoder <i>n</i>.
+<bullet.bmp> Se <i>n</i> = *, todos os encoders serão limpos.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> CLR 3 
+<bullet.bmp> Limpa o encoder 3.
+
+<chiclet.bmp> CLR <b>*</b>
+<bullet.bmp> Limpa todos os encoders. 
+ 
+						
+----- SHM ---- page 7 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+CLRBUF{A/B}
+CLRBUF <<i>eixo</i>>
+
+Quando: <<i>eixo</i>>> é um eixo no grupo C.
+
+<b>Descrição:</b>
+
+<color=6b>CLRBUF</color>
+<bullet.bmp> Esvazia o buffer de movimento de todos os eixos. 
+<bullet.bmp> Pode ser usado a fim de parar o robo durante um evento, e continuar o programa com outros comandos. 
+
+<color=6b>CLRBUFA/B</color>
+<bullet.bmp>Esvazia o buffer de movimentos do grupo A ou B.
+
+<color=6b>CLRBUF <<i>eixo</i>></color>
+<bullet.bmp> Esvazia o buffer de movimento de um eixo específico.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> CLRBUF
+
+<chiclet.bmp> 
+IF IN[3] = 1
+STOP MAIN
+CLRBUFA
+MOVE HOME
+ENDIF
+----- SHM ---- page 8 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+CLRCOM <i><n></i> 
+CLRCOM 0 
+
+Quando:
+<bullet.bmp> <<i>n</i>> é uma porta de comunicação RS232, 1 <= <i>n</i> <= 8;
+<bullet.bmp> 0 = todas as portas de comunicação RS232. 
+
+<b>Descrição:</b>
+
+<color=6b>CLRCOM <<i>n</i>></color>
+<bullet.bmp> Limpa todos os buffers de uma porta RS232 especificada. 
+
+<color=6b>CLRCOM 0 </color>
+<bullet.bmp> Limpa todos os buffers de todas as portas de comunicação RS232
+
+<c> <bullet.bmp> Este comando pode ser usado para resetar as portas de comunicação quando um erro, tal como XOFF sem um subsequente XON, interrompe ou segura uma comunicação RS232. <bullet.bmp>
+</c>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> CLRCOM 2 
+
+<b>Nota:</b> Vide o comando <jump=SENDCOM>SENCOM</jump>. 
+						
+
+----- SHM ---- page 9 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+COFF <<i>eixo</i>>
+COFFA/B
+
+<b>Descrição:</b>
+
+<bullet.bmp> Desliga o servo controle para todos os eixos, apenas para um grupo especificado ou eixo.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> COFF
+<bullet.bmp> Control OFF para todos os eixos.
+
+<chiclet.bmp> COFFA 
+<bullet.bmp> Control OFF para os eixos do grupo A.
+ 
+<chiclet.bmp> COFFB 
+<bullet.bmp> Control OFF para os eixos do grupo B.
+
+<chiclet.bmp> COFF 10  
+<bullet.bmp> Control OFF para o eixo 10.
+
+						
+----- SHM ---- page 10 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+CONA/B
+CON<<i>eixo</i>>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Liga o servo controle para todos os eixos ou apenas para um grupo de eixos especificados.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> CON
+<bullet.bmp> CON Control ON para todos os eixos.
+
+<chiclet.bmp> CONA
+<bullet.bmp> Control ON para todos os eixos do grupo A. 
+ 
+<chiclet.bmp> CONB
+<bullet.bmp> Control ON para os eixos do grupo B. 
+
+<chiclet.bmp> CON 10  
+<bullet.bmp> Control ON para o eixo 10.
+
+						
+----- SHM ---- page 11 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+CONFIG ?
+
+<b>Descrição:</b>
+
+<color=6b>CONFIG</color>
+<bullet.bmp> Ativa o arquivo de configuração para definir o set-up do controlador. 
+
+<c><color=4> Atenção! Este comando apaga todos os programas e posições da User RAM! </color></c>
+
+<onestep.bmp> O set-up contém:
+		<bullet.bmp> Número de entrada e saídas
+		<bullet.bmp> Numero de servo eixos
+		<bullet.bmp> Tipo do robo 
+		<bullet.bmp> Tamanho da memória para linhas de programas 
+		<bullet.bmp> Tamanho da memória para variáveis 
+		<bullet.bmp> Tamanho da memória para posições 
+		<bullet.bmp> Tamanho da memória para comentários 
+
+<color=6>CONF ?</color>
+<bullet.bmp> Mostra a configuração atual 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> >config 
+	!!!ATENÇAO TODOS OS PROGRAMAS SERÃO APAGADOS.
+	ARE YOU SURE ??? [YES/NO] > yes
+	JOB KILLING PHASE  ....................>
+	ENTER NUMBER OF INPUTS [16] (0-16) > 
+	ENTER NUMBER OF OUTPUTS [16] (0-16) > 
+	ENTER NUMBER OF ENCODERS [11] (0-11) > 
+	ENTER NUMBER OF DACS [11] (0-11) > 
+	ENTER NUMBER OF AUXILIARY RS232 PORTS[O] (0-8) > 
+	WHICH TYPE OF ROBOT (0-5-7) [5] (0-7) > 
+	ENTER NUMBER OF SERVO LOOPS, GROUP A [5] (5-8) > 
+	SERVO GRIPPER INSTALLED AT AXIS [6] (0-8) > 
+	ENTER NUMBER OF SERVO LOOPS, GROUP B [2] (0-2) > 
+	ENTER TOTAL NUMBER OF SERVO LOOPS [8] (8-8) > 
+	ENTER AMOUNT OF USER RAM IN KBYTES [128] (16-128) >
+	IS VISION BOARD PRESENT? [NO] > 
+	ENTER NUMBER OF USER PROGRAMS [150] > 
+	ENTER NUMBER OF USER PROGRAM LINES [3000] > 
+	ENTER NUMBER OF USER VARIABLES [600] > 
+	ENTER NUMBER OF USER POINTS , GROUP A [2380] > 
+	ENTER NUMBER OF USER POINTS , GROUP B [2380] >
+	ENTER NUMBER OF USER POINTS , GROUP C [O] > 
+	ENTER NUMBER OF USER COMMENTS [550] > 
+	Performing configuration, please wait 10 seconds 
+	>
+	>
+	O.K.
+	>
+
+<bullet.bmp> INIT EDITOR é automaticamente executado durante a configuração.
+<bullet.bmp> Durante a configuração, o sistema mostra os valores existentes (default) e permite que você os altere. Se você não deseja alterar nenhum valor, digite <Enter>. 
+<bullet.bmp> O número máximo de entradas e saídas é 16.
+<bullet.bmp> O número máximo de encoders e DACS é 11, o número máximo de eixos.
+<bullet.bmp> Qual é o tipo de robo disponível? 
+	<onestep.bmp> Tipo 0: Eixos separados, cinemática do braço desconhecida, sem cálculos XYZ sem rotina de HOME.
+	<onestep.bmp> Tipo 5 : Compatível com a cinemática do <b>SCORBOT-ER V</b> e  <b>ER V plus</b>. 
+	<onestep.bmp> Tipo 7 : Compatível com cinemática do <b>SCORBOT-ER VII </b>.
+
+<bullet.bmp> O número de eixos para os grupos A e B são ser definíveis. Quando o robo é o Tipo 5, o grupo A deve ser o robo e incluir um mínimo de 5 eixos.
+<bullet.bmp> Se voce usa uma servo garra, ela eve ser Instalado como eixo, o qual segue o grupo A; por exemplo, se o grupo A inclui 5 eixos, a garra deve ser instalada no eixo 6. Se nenhuma servo garra é instalada, entre com 0 como o eixo da garra. Voce pode então usar o eixo 6 para controlar outros servo-dispositivos. 
+<bullet.bmp> O número total de servo loops deve ser maior que o número de eixos definidos . para os grupos A e B e garra, e não podem exceder o número de encoders e DACs. Os eixos remanescentes são referentes ao grupo C, o qual sempre contém eixos dependentes
+<bullet.bmp> Neste exemplo, o default de setagem é: 5 eixos no grupo A, 4 eixos no grupo B, e garra, totalizando 10 eixos. 
+<bullet.bmp> O tamanho standard da User RAM é 128 KBytes.
+<bullet.bmp> A Vision board é apenas para o futuro. Não tente responder positivamente. 
+<bullet.bmp> O número de programas, linhas de programas, variáveis, pontos, e comandos dependem do tamanho da memória e da distribuição de todos estes ítens. Vide o Apendice A para detalhes do tamanho da memória necessária para cada ítem, e calcule de acordo com suas necessidades. 
+
+<bullet.bmp> O exemplo seguinte é um tipo de relatório de configuração. 
+
+<chiclet.bmp> 
+>conflg? 
+******* CURRENT CONFIGURATION IS :
+INPUTS - 16 
+OUTPUTS - 16 
+ENCODERS - 8 
+ANALOG OUTPUTS - 8 
+AUXILIARY PORTS - O 
+ROBOT TYPE - 5 
+SERVO AXIS GROUP A - 5
+SERVO GRIPPER - 6 
+SERVO AXIS GROUP B - 2 
+TOTAL NUMBER OF SERVO AXIS 8 
+_128 KBYTE OF USER BATTERY BACKED UP MEMORY INSTALLED. 
+USER PROGRAMS - 150 
+USER PROGRAM LINES - 3000 
+USER VARIABLES - 600 
+USER POINTS, GROUP A - 2380 
+USER POINTS, GROUP B - 2380 
+USER POINTS, GROUP C - O 
+USER COMMENTS - 550 
+>
+
+
+<b>Nota:</b> Vide <jump=APENDICE A>APENDICE A</jump>. 
+
+	
+----- SHM ---- page 12 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+CONTINUE <i><prog> </i>
+
+Quando: <i><prog></i> é um programa
+
+<b>Descrição:</b>
+
+<bullet.bmp> Retoma a execução do programa a partir do ponto onde o programa estava suspenso previamente, através do comando SUSPEND.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> CONTINUE ALPHA 
+<bullet.bmp> Retoma a execução do programa ALPHA.
+
+						
+----- SHM ---- page 13 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+COPY <i><prog1> <prog2> </i>
+
+Onde: <i><prog1> e <prog2></i> são programas definidos.
+
+<b>Descrição:</b>
+
+<bullet.bmp> Copia o programa <prog1> para um novo nome de programa <prog2>. Duas cópias de um mesmo programa existem, com nomes diferentes. 
+<bullet.bmp> O controlador irá avisá-Io se <i><prog2></i> já está em uso.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> COPY ALPHA BETA 
+<bullet.bmp> Copia o programa ALPHA para o programa BETA.
+----- SHM ---- page 14 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+DEFINE <i><varl1 <var2>... <var12></i>
+
+Onde: <i><var1>, <var2>, . . . <var12 ></i> são variáveis definidas. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Define uma variável local. A variável local é reconhecida apenas pelo programa específico na qual está definida. 
+
+<bullet.bmp> Até doze variáveis podem ser definidas em um comando. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DEFINE I
+<bullet.bmp> Cria a variável chamada I.
+
+<chiclet.bmp> DEFINE L ALL KEY 
+<bullet.bmp> Cria variáveis chamadas L, ALL e KEY.
+
+<b>Notas:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, este comando é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇÃO. 
+
+<bullet.bmp> Tenha certeza que o primeiro caracter do nome da variável é uma letra. 
+----- SHM ---- page 15 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>DEFP</target>
+<b>Formato:</b>	
+
+DEFPA/B <i><pos></i> 
+DEFPC <i><pos> <eixo> </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Cria uma posição no grupo A ou grupo B, ou no eixo no grupo C. 
+<bullet.bmp> Se um grupo não é especificado, o grupo A é assumido. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DEFPA 9531 
+<bullet.bmp> Cria uma posição chamada 9531 no grupo A.
+
+<chiclet.bmp> DEFP 13 
+<bullet.bmp> Cria uma posição chamada 13 no grupo A. 
+
+<chiclet.bmp> DEFPB DOD 
+<bullet.bmp> Cria uma posição chamada DOD no grupo B. 
+
+<chiclet.bmp> DEFPC PP 9 
+<bullet.bmp> Cria uma posição chamada PP no eixo 9 no grupo C. 
+
+<b>Nota:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, o comando é executado mas não cria uma linha de programa, mesmo quando é executado no modo de EDIÇÃO. 
+----- SHM ---- page 16 ---- 
+<boxc><b>MODO:EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+DEL
+
+<b>Descrição:</b>
+
+<bullet.bmp> Apaga a linha atual do programa (Quando editando).
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> 
+190 LABEL 1 
+191 MOVE 10 
+192 DEL 
+
+<bullet.bmp> Apaga o comando na linha 191.
+----- SHM ---- page 17 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+DELA Y <i><var> </i>
+
+Onde: <i><var></i> é uma variável ou constante definida. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Atrasa a execução do programa pelo número de pulsos da variável <i><var></i>.
+<bullet.bmp> Cada pulso equivale a 10 milisegundos (um centésimo de segundo). 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DELAY 100 
+<bullet.bmp> Atrasa por 1 segundo. 
+
+<chiclet.bmp> SET T=500 
+      DELAY T 
+
+<bullet.bmp> Atrasa por 5 segundos. 
+----- SHM ---- page 18 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+DELP <i><pos> </i>
+DELP <i><pvect> </i>
+
+Onde: <i><pos></i> é uma posição definida. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Apaga posições e vetores de posição da tabela de posições. 
+
+<bullet.bmp> Voce pode apagar uma posição apenas se ela não é usada em nenhum programa na User RAM. O controlador irá avisá-Io se voce tentar apagar uma posição que está em uso. 
+
+<bullet.bmp> Voca não pode deletar posições individuais dentro de vetores. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DELP A953 
+<bullet.bmp> Apaga uma posição ou vetor chamado A953.
+
+<chiclet.bmp> DELP DOD 
+<bullet.bmp> Apaga uma posição ou vetor chamado DOD.
+
+<b>Notas:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado ele executa a definição requerida e não cria uma linha de programa. 
+----- SHM ---- page 19 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+DELVAR <i><var> </i>
+
+Onde: < var > é uma variável definida
+
+<b>Descrição:</b>
+
+<bullet.bmp> Apaga a variável <i><var></i> da tabela de variáveis. 
+
+<bullet.bmp> Voce pode deletar uma variável apenas se ela não é usada em nenhum programa da User RAM. O controlador irá alertá-Io se voce tentar apagar uma variável que está em uso..
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DELVAR I 
+<bullet.bmp> Apaga a variável I.
+
+<chiclet.bmp> DELVAR PRESS
+<bullet.bmp> Apaga a variável PRESS.
+
+<b>Notas:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, este comando é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇÃO.
+----- SHM ---- page 20 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+DIM <i><var[n]> </i>
+
+Onde: <i><var[n] ></i> é um vetor da <i>n</i> variável local. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Define uma variável local vetor de <i>n</i> elementos. Os elementos criados são chamados <i>var[l], var[2], ... var[n].</i>
+
+<bullet.bmp> Uma variável local é reconhecida pelo programa no qual ela é definida. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DIM LOCV[20] 
+<bullet.bmp> Cria. um vetor chamado LOCV contendo 20 variáveis locais, LOCV[1] . . . LOCV[20].
+
+<b>Notas:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, este comando é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇÃO. 
+
+<bullet.bmp> Tenha certeza que o primeiro caracter do nome do vetor é uma letra. 
+----- SHM ---- page 21 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+DIMG <i><var[n] > </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Define uma variável global vetor de <i>n</i> elementos. Os elementos criados são chamados <i>var[1], var[2] . . . var[n] . </i>
+
+<bullet.bmp> Uma variável global pode ser usada em qualquer programa. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DIMG GLOB [8] 
+
+<bullet.bmp> Cria um vetor chamado GLOB contendo 8 variáveis globais chamadas GLOB[1] . . . GLOB[8]. 
+
+<b>Notas:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, este comando é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇÃO. 
+
+<bullet.bmp> Tenha certeza que o primeiro caracter do nome do vetor é uma letra. 
+----- SHM ---- page 22 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+<target>DIMP</target>
+<b>Formato:</b>	
+
+DIMP  A/B <i><pvect[ n] > </i>
+DIMPC <i><pvect[n]> <eixo> </i>
+
+Onde: <i><pvect[n] ></i> é um vetor de<i> n</i> posições
+
+<b>Descrição:</b>
+
+<bullet.bmp> Define um vetor contendo<i> n</i> posições, chamado <i>pos[1], pos[2] . . . pos[n] </i>para o grupo A ou B ou para um eixo no grupo C. 
+
+<bullet.bmp> Se nenhum grupo é especificado, A é assumido
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DIMP PICK [30]  
+<bullet.bmp> Cria um vetor para o grupo A contendo 30 posições chamadas PICK[1] . . . PICK[30]. 
+
+<chiclet.bmp> DIMPB BB [10] 
+<bullet.bmp> Cria um vetor para o grupo B contendo 10 posições chamadas BB[1] . . . BB[1O]. 
+
+<chiclet.bmp> DIMPC CONV[25] 11 
+<bullet.bmp> Cria um vetor para o eixo 11 contendo 25 posições.
+
+<b>Notas:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, este comando é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇÃO. 
+
+<bullet.bmp> Tenha certeza que o primeiro caracter do nome do vetor é uma letra. 
+----- SHM ---- page 23 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+DIR 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra o diretório de todos os programas com suas prioridades. Se a mensagem "not valid" é ligada ao nome do programa, então o programa não é válido sintaticamente. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> DIR
+
+name		:validity		identity		priority
+<i>nome		validade		identidade	prioridade</i>
+
+DEMO		:		: 1		: 5
+IO			:		: 2		: 5
+IOA			:		: 3		: 5
+TWOIO		:		: 4		: 5
+INOUT		:		: 5		: 5
+PICP		:		: 6		: 5
+
+
+<b>Notas:</b> 
+<bullet.bmp> Validade: Vide o comando <jump=EXIT>EXIT</jump>.
+
+<bullet.bmp> Identidade: Controlador atribue um número de programa. Este número de programa é usado para acessar programas a partir do TEACH PENDANT.
+
+<bullet.bmp> Vide os comandos <jump=PRIOR>PRIOR</jump> e <jump= RUN> RUN</jump>.
+
+----- SHM ---- page 24 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+<target>DISABLE</target> 
+<b>Formato:</b>	
+
+DISABLE IN/OUT <i>< n > </i>
+DISABLE ? 
+
+Onde: 
+<bullet.bmp> IN e OUT são entradas e saídas
+<bullet.bmp> e <i><n> </i>é o índice l/O, 1 <= <i>n</i> <= 16 
+
+<b>Descrição:</b>
+
+<b><color=6>DISABLE IN/OUT<i><n></i> </color></b>
+<bullet.bmp> Desconecta a I/0 física da I/0 lógica. Uma vez que a I/0 é desabilitada, seu último estado permanece inalterado. Entretanto, o comando FORCE permita que voce  set/reset a <b>saída</b> especificada enquanto ela está desabilitada. 
+
+<b><color=6>DISABLE ? </color></b>
+<bullet.bmp> Mostra todas as I/0s desabilitadas.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DISABLE IN 8 
+<bullet.bmp> Desconecta a Entrada 8. 
+
+<chiclet.bmp> DISABLE OUT 12  Nota: 
+<bullet.bmp> Desconecta a Saída 12.
+
+<b>Nota:</b> 
+<bullet.bmp> Vide os comandos <jump=ENABLE>ENABLE</jump>  e  <jump=FORCE>FORCE</jump>.
+
+----- SHM ---- page 25 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+DO <EDIÇÃO <i>command</i>> 
+Onde: <EDIÇÃO <i>command</i>> é um comando no modo EDIÇÃO
+
+<b>Descrição:</b>
+
+<bullet.bmp> Executa um comando EDIÇÃO (indireto)em modo DIRETO. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> DO INT_OFF 1 
+<bullet.bmp> Imediatamente desliga o feedback integral para o eixo 1. 
+
+
+----- SHM ---- page 26 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+ECHO
+
+<b>Descrição:</b>
+
+<bullet.bmp> Repete (mostra) na tela todos os caracteres que são transmitidos para o controlador. Este é o modo de default. 
+<bullet.bmp> O comando NOECHO para a retransmissão dos caracteres transmitidos.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> NOECHO
+
+<chiclet.bmp> ECHO
+
+----- SHM ---- page 27 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+EDIT <i><prog></i> 
+Onde: <i><prog></i> é qualquer programa definido
+
+<b>Descrição:</b>
+
+<bullet.bmp> Ativa o modo EDIÇÃO e carrega todos os programas chamados <i><prog></i>. 
+<bullet.bmp> Se <i><prog></i> não é achado, ele automaticamente cria um novo programa com este nome, e aguarda pela confirmação do usuário. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> >edit ALPHA 
+Welcome to the ACL editor, type HELP when in trouble. 
+PROGRAM ALPHA 
+***************** 
+127:? 		O editor agora está pronto para receber linhas de programas
+
+
+
+----- SHM ---- page 28 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+ELSE
+
+<b>Descrição:</b>
+
+<bullet.bmp> O comando ELSE segue um comando IF e precede um ENDIF.
+<bullet.bmp> ELSE marca o início de uma subrotina de programa a qual define as ações a serem tomadas se um comando IF é falso.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> IF J>2 
+      ANDIF A=B 
+      SET OUT[1]=1 
+      ELSE
+      SET OUT[5]=1 
+      ENDIF
+
+<bullet.bmp> IF J>2 e se A=B, então o controlador desliga a Saída 1. Se não (ELSE), ele liga a Saída 5. 
+
+<b>Nota:</b> 
+<bullet.bmp> Vide o comando <jump=IF>IF</jump>.
+----- SHM ---- page 29 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+<target>ENABLE</target> 
+<b>Formato:</b>	
+
+ENABLE IN/OUT <i><n> </i>
+
+Onde: 
+<bullet.bmp> IN e OUT são entradas e saídas.
+<bullet.bmp> <i><n></i> é o índice I/O, 1 <= <i>n</i> <= 16. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Reassume o controle regular do sistema da entrada ou saída especificada. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> ENABLE IN 8 
+<bullet.bmp> Reconecta a Entrada 8 ao software. 
+
+<chiclet.bmp> ENABLE OUT 12 
+<bullet.bmp> Reconecta a Saída 12 ao software. 
+
+<b>Nota:</b> 
+<bullet.bmp> Vide o comando <jump=DISABLE>DISABLE</jump>.
+----- SHM ---- page 30 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> O sistema <b>automáticamente</b> escreve END na última linha do programa. Voce não precisa introduzir este comando.
+
+----- SHM ---- page 31 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+ENDFOR 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Fim do loop do FOR.
+<bullet.bmp> Fim da subrotina a ser executada pelo comando FOR. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> FOR I = 1 TO 16
+      SET OUT [ I ] =1 
+      ENDFOR
+
+<bullet.bmp> Este loop é executado 16 vezes e liga todas as 16 saídas
+
+<b>Nota:</b> 
+<bullet.bmp> Vide o comando <jump=FOR>FOR</jump>.
+----- SHM ---- page 32 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+ENDIF
+
+<b>Descrição:</b>
+
+<bullet.bmp> Fim da subrotina IF no programa
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> IF XYZ = 1 
+      ANDIF Z [1] =X
+      ORIF B<C 
+      MOVE POS[1] 
+      ELSE 
+      MOVE POS[2] 
+      ENDIF 
+
+<b>Nota:</b> 
+<bullet.bmp> Vide o comando <jump=IF>IF</jump>.
+----- SHM ---- page 33 ---- 
+<boxc><b>MODO: EDIÇÃO/DIRETO</b></box>
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> Em EDIÇÃO, vai para a próxima linha do programa e mostra seu número. 
+<bullet.bmp> Em DIRETO, confirma o comando digitado.
+----- SHM ---- page 34 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+EXACT
+
+<b>Descrição:</b>
+
+<bullet.bmp> Finaliza EDIÇÃO e checa a sintaxe e lógica do programa. Procura por erros, O tais como comandos FOR sem ENDFOR, IF sem ENDIF, e GOTO sem o LABEL apropriado. 
+
+<c><bullet.bmp> Se um erro é encontrado, a mensagem é mostrada. <bullet.bmp> </c>
+<color=4><b><c>PROGRAM NOT VALID </c></b></color>
+
+<c><bullet.bmp> Se o programa é legítimo, a seguinte mensagem é mostrada. <bullet.bmp> </c>
+<color=4><b><c>PROGRAM IS VALID </c></b></color>
+----- SHM ---- page 35 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>EXACT</target>
+<b>Formato:</b>	
+
+EXACT OFFA/B/C 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta o modo de operação dos comandos MOVED, MOVELD, MOVECD e MOVESD.
+<bullet.bmp> No modo EXACT, o comando MOVED (ou outro comando MOVE terminado com D) instrui o controlador a checar se os eixos atingiram seus destinos (dentro da tolerância dada). 
+<bullet.bmp> No modo EXACT OFF, o comando MOVE+D atrasa a execução do programa até que o controlador assuma (de acordo com o tempo) que os eixos estejam nas posições corretas. 
+
+<color=6b>EXACT A/B/C</color>
+<bullet.bmp> Seta o modo EXACT para movimentos de um grupo especificado. 
+
+<color=6b>EXACT OFFA/B/C</color> 
+<bullet.bmp> Desabilita o modo EXACT para o grupo especificado. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> EXACT A 
+
+<chiclet.bmp> EXACT OFFA 
+
+<b>Nota:</b> 
+<bullet.bmp> Parametros 261-271 determinam a tolerância exata. 
+----- SHM ---- page 36 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+<target>FOR</target> 
+<b>Formato:</b>	
+
+FOR <i><var></i> = <i><value1></i> TO <i><value2></i> 
+
+Onde: 
+<bullet.bmp> <i><var></i> é uma variável definida, e 
+<bullet.bmp> <i><valor 1></i> e <i><valor2></i> são variáveis ou constantes definidas. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Executa a subrotina para todos os valores de <i><var1></i> , começando com o <i><valor 1> </i>e acabando com o <i><valor2 > .</i> 
+<bullet.bmp> A última linha da subrotina deve ser um comando ENDFOR. 
+
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> FOR L=M TO N 
+      MOVED POS[L] 
+      ENDFOR
+
+<chiclet.bmp> FOR I=1 TO 16 
+      SET OUT[ I ]=1 
+      ENDFOR
+
+----- SHM ---- page 37 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+<target>FORCE </target>
+<b>Formato:</b>	
+
+FORCE IN/OUT <i><n> <state> </i>
+
+Onde: 
+<bullet.bmp> IN e OUT são entradas e saídas, e 
+<bullet.bmp> <i><n></i> é o índice I/0, e 
+<bullet.bmp> <i><state></i> é também 1 (ON) ou O (OFF). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Força a I/O especificada ao estado solicitado. 
+<bullet.bmp> Este comando é operante apenas para as I/0s as quais já foram desabilitadas pelo comando <jump=disable>DISABLE</jump>.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> FORCE IN 5 1 
+<bullet.bmp> Ativa a Entrada 5 para o estado ON. 
+      
+<chiclet.bmp> FORCE OUT 11 0
+<bullet.bmp> Ativa a Saída 11 para o estado OFF.
+
+<b>Nota:</b> 
+<bullet.bmp> Vide o comando <jump=DISABLE>DISABLE</jump>.
+
+----- SHM ---- page 38 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+FREE
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra uma lista dos espaços disponíveis na User RAM: 
+ 
+  <onestep.bmp> Linhas livres para programas 
+  <onestep.bmp> Variáveis livres 
+  <onestep.bmp> Pontos livres para o grupo A.
+  <onestep.bmp> Pontos livres para o grupo B.
+  <onestep.bmp> Pontos livres para o grupo C.
+  <onestep.bmp> Bytes livres para comentários 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> FREE 
+      484 LINHAS ESTÃO LIVRES 
+-------------------------------------------------------
+      63 VARIAVEIS ESTÃO LIVRES 
+-------------------------------------------------------
+      310 PONTOS DO GRUPO A
+-------------------------------------------------------
+      308 PONTOS DO GRUPO B ESTÃO LIVRES
+-------------------------------------------------------
+      11 PONTOS DO GRUPO C ESTÃO LIVRES 
+------------------------------------------------------- 
+      900 BYTES ESTAO LIVRES para comentários. 
+      >
+----- SHM ---- page 39 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+GET <i><var> </i>
+Onde: <i><var></i> é uma variável definida.
+
+<b>Descrição:</b>
+
+<bullet.bmp> Quando o programa encontra um comando GET, ele para e aguarda um caracter ser pressionado no teclado. A variável é atribuída o valor ASCII do caracter que é pressionado. 
+
+<bullet.bmp> O comando GET pode ser precedido pelo comando PRINTLN, então o que o usuário deve saber é que o programa está aguardando um caracter ser digitado. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> PRINTLN "SELECT PROGRAM: P Q R" 
+
+      GET VP        * (VP é a variável) 
+      IF VP=80      * (80 é o ASCII para P) 
+         RUN P 
+      ENDIF 
+      IF VP=81      * (81 é o ASCII para Q) 
+         RUN Q 
+      ENDIF 
+      IF VP=82      * (82 é o ASCII para R)
+         RUN R 
+      ENDIF 
+----- SHM ---- page 40 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+GETCOM <i><n> <var> </i>
+
+Onde: 
+<bullet.bmp> <i><n></i> é uma porta de comunicação RS232, 1 <= n <= 8, e
+<bullet.bmp> <i><var></i> é a variável. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Acompanha o comando SENCOM.
+
+<bullet.bmp> Recebe um byte da porta RS232 especificada. 
+
+<bullet.bmp> O valor do byte é armazenado na variável especificada.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> PROGRAM WAIT1
+      LABEL 1
+      GETCOM 1, RECV 
+      PRINTLN "$ IN : "RECV 
+      GOTO 1 
+      END 
+
+<bullet.bmp> Este programa aguarda por caracteres a serem recebidos em rede RS232, e imprime seus valores na tela.
+----- SHM ---- page 41 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+GLOBAL <i><var1> <var2> . . . <var12></i>
+Onde: <i><var 1> <var2 > . . . <var 12></i> são variáveis definidas
+
+<b>Descrição:</b>
+
+<bullet.bmp> Define uma variável global. A variável global pode ser usada em qualquer programa. 
+<bullet.bmp> Até doze variáveis podem ser definidas em um comando. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> GLOBAL HB
+<bullet.bmp> Cria uma variável global chamada HB. 
+
+<chiclet.bmp> GLOBAL J BYE ME
+<bullet.bmp> Cria variáveis globais chamadas J, BYE e ME. 
+
+<b>Nota:</b> 
+<bullet.bmp> Este é um comando de definição. Quando digitado, ele é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇAO. 
+<bullet.bmp> Tenha certeza que o primeiro caracter da variável é uma letra. 
+
+----- SHM ---- page 42 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+GOSUB <i><prog> </i>
+Onde: <i><prog></i> é um programa definido. 
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> Transfere o controle do programa do programa principal para <i><prog></i>, começando na primeira linha de<i> <prog>.</i> Quando o comando END<i><prog></i> é atingido, a execução do programa principal é retomada com o comando que precede o comando GOSUB. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> SET Z=10 
+      GOSUB SERVE 
+      MOVE P3 
+
+<bullet.bmp> Após execução do comando SET, e antes da execução do comando MOVE, o programa SERVE é executado em sua totalidade. 
+
+----- SHM ---- page 43 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+GOTO <i><labeln> </i>
+Onde: <i><labeln></i> é qualquer número, O <= n <= 9999 
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> Pula para a imediatamente seguinte do comando LABEL <i><labeln> </i>
+<bullet.bmp> LABEL <i><labeln></i> deve estar incluido no mesmo programa que o comando GOTO
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> LABEL 5 
+      MOVE POS13 
+      SET A=B+C 
+      GOSUB MAT  
+      GOTO 5 
+      
+<bullet.bmp> Este programa é executado em um loop interminável, a menos que seja abortado manualmente. 
+
+<chiclet.bmp> LABEL 6 
+      GOSUB BE 
+      SET K=K+1
+      IF K<500  
+      GOTO 6 
+      ENDIF 
+
+<bullet.bmp> Este programa é executado 500 vezes e então para.
+----- SHM ---- page 44 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+HELP
+DO HELP 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Quando no modo DIRETO: 
+<onestep.bmp> HELP provem uma tela de auxílio on-line para comandos DIRETO, e DO HELP provem a tela de auxílio on-line para os comandos de EDIÇÃO. 
+
+<bullet.bmp> Quando no modo EDIÇÃO: 
+<onestep.bmp> HELP provem uma lista e uma breve explicação de todos os comandos EDIÇÃO. 
+
+----- SHM ---- page 45 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+HERE <i><pos></i> 
+Onde: <i><pos></i> é uma posição definida. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Grava em valores de <b>juntas</b> (unidades do encoder) a localização atual do eixo  na <i><pos>. </i>
+
+<bullet.bmp> <i><pos></i> deve ser primeiro definido usando-se os comandos <jump=DEFP>DEFP</jump> ou <jump=DIMP>DIMP</jump>.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> HERE POINT 
+            
+<chiclet.bmp> DIMP P[20] 
+      HERE P[5]  
+      
+<b>Nota:</b> 
+<bullet.bmp> Vide o comando <jump=DEFP>DEFP</jump> ou <jump=DIMP>DIMP</jump>.
+----- SHM ---- page 46 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+HERER <i><pos2> <posl> </i>
+Onde: <i><pos2> e <pos1></i> são nomes de posições definidas. 
+
+<b>Descrição:</b>
+
+<color=6b>HERER <i><pos2></i></color> 
+<bullet.bmp> Grava em valores de <b>juntas</b> (unidades de encoder) a localização de <i><pos2></i>. <i><pos2></i> é sempre relativa a atual posição. Voce é inquerido a entrar com os valores de coordenada como mostrado no exemplo abaixo.
+
+<color=6b>HERER <i><pos2> <pos1></i> </color>
+<bullet.bmp> Grava em valores de encoder a localização da <i><pos2></i> relativa a <i><pos1></i>. <i><pos1></i> deve ser gravada antes <i><pos2></i>. Posteriormente, sempre <i><pos1></i> é movida, <i><pos2></i> automaticamente move-se com ela. 
+
+<bullet.bmp> Este comando pode ser usado no modo EDIÇÃO. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> >HERER AA 
+      1-- [1] >0		0 pulsos de encoder na base 
+      2 - - [ -1 ] >500	500 pulsos de encoder no ombro 
+      3 - - [ O ] >250		250 pulsos de encoder no cotovelo 
+      4 - - [ 2 ] >30		30 pulsos de encoder no pulso 
+      5 -- [2] >0		0 pulsos de encoder na munheca
+      DONE
+      > 
+
+            
+<chiclet.bmp> >HERER AA BB 
+<bullet.bmp> A localização da posição AA é gravada como relativa a posição BB. 
+
+   
+----- SHM ---- page 47 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+HOME <i><n> </i>
+HHOME <i><n> </i>
+Onde: <i><n></i> é o número de um eixo, 1 <= <i>n</i> <= 11. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> HOME é um programa o qual está gravado na EPROM, e é ativado pelo comando HOME.
+
+<color=6b>HOME</color> 
+
+<bullet.bmp> Dirige todos os eixos do <b>SCORBOT-ER V</b> e <b>VII</b> para suas posições de referência apenas procurando seus microswitch em cada eixo. 
+<bullet.bmp> A procura da referência é executada apenas se o Tipo 5 ou Tipo 7 foi introduzido durante a configuração
+
+<color=6b>HOME <i>n</i></color> 
+
+<bullet.bmp> Dirige o eixo <i>n</i> para sua posição de referência, usando a busca do micrositch. O comando HOME <i><eixo></i> permite que voce crie um programa de referência dedicado a qualquer configuração especial. 
+
+<color=6b>HHOME <i>n</i></color> 
+
+<bullet.bmp> Dirige o eixo <i>n</i> para sua posição de referência. O programa procura pelo hard stop ao invés do microswitch. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> HOME 7 
+      HOME 8 
+      HOME 9 
+
+<bullet.bmp> Procura pelo microswitch de referência nos eixos 7, 8, e 9. 
+
+<chiclet.bmp> HHOME 7
+<bullet.bmp> Procura pelo hard stop de referência no trilho linear conectado ao eixo 7. 
+
+Tenha certeza que o movimento da base está perto o suficiente do mecanismo de stop, antes de executar na LSB. 
+      
+<b>Notas:</b> 
+<bullet.bmp> Tenha certeza que o movimento da base está perto o suficiente do mecanismo de stop, antes de executar na LSB. 
+
+<bullet.bmp> A força usada para dirigir o motor no comando HHOME é determinada pelos parametros do sistema 201-211. Tenha certeza que o valor DAC não irá danificar os eixos conectados!
+
+<bullet.bmp> Para rodar o programa de HOME do robo a partir do teach pendant, digite:
+<c>RUN 0 [ENTER] </c>
+----- SHM ---- page 48 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>IF</target>
+<b>Formato:</b>	
+
+Formato: IF <i><va1l> <cond> <var2> </i>
+Onde: 
+<bullet.bmp> <i><var 1></i> é uma variável definida, <i><var2 ></i> é uma variável ou constante,
+<bullet.bmp>  e <cond> é uma das seguintes condições:  <, >, =, <=, >=, <> 
+
+<b>Descrição:</b>
+
+<bullet.bmp> O comando IF checa a relação entre <i><var1></i> e <i><var2>. </i>
+<bullet.bmp> Se ela encontra as condições especificadas, o resultado é verdade, e a subrotina ou comando é executado. Se não é verdade, outra subrotina ou comando é executado
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> IF C[1]=3		IfC[l] = 3, 
+      MOVE AA [1] 		então move para AA[1].
+      ELSE		Se C[1] != 3 	,
+      GOSUB TOT		executa (subrotina) o programa TOT.
+      ENDIF
+  
+----- SHM ---- page 49 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+<color=6b>INIT CONTROL </color>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Inicializa todos os parametros de controle. Deve ser executado após qualquer troca nos parametros de controle.
+
+
+<color=6b>INIT EDITOR </color>
+
+<b>Descrição:</b> 
+
+<bullet.bmp> Inicializa o espaço, variáveis e programas do usuário na User RAM
+<color=4><c><b>Atenção!</b> Este comando apaga todo o conteúdo da User RAM. </c></color>
+ 
+<b>Nota:</b> 
+<bullet.bmp> O comando CONFIG automaticamente executa esta operação. Portanto, INlT EDITOR é usado com pouca frequência. 
+
+
+<color=6b>INIT PROFILE </color>
+
+<b>Descrição:</b> 
+
+<bullet.bmp> Inicializa a velocidade de perfis (ambos parab6licos e trapezoidais) de acordo com o valor do parametro 76. 
+
+<b>Nota:</b> 
+<bullet.bmp> Vide <jump=Apendice B>Apendice B</jump> para explanações do par 76. 
+----- SHM ---- page 50 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+INT_ON <i><eixo1> <eixo2> .. . <eixo4> </i>
+INT_OFF <i><eixo1> <eixo2> . . . <eixo4> </i>
+Onde: <i><eixo1> . . . <eixo4></i> são servo eixos no sistema.
+
+<b>Descrição:</b>
+
+<bullet.bmp> Chaveia para ON/OFF o controle integral de feedback dos servo eixo/eixos especificados. 
+<bullet.bmp> Até quatro eixos podem ser especificados em um comando. O chaveamento é feito no run time. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> INT_OFF 2 
+ 
+<chiclet.bmp> INT ON 5 
+     
+<b>Nota:</b> 
+<bullet.bmp> Tenha certeza de usar um tracinho (under line) entre INT e ON/OFF.
+----- SHM ---- page 51 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+JAW <i><var> <tempo> </i>
+Onde:<i> <var></i> e <i><tempo></i> são variáveis definidas ou constantes
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> <i><var></i> é uma porcentagem de abertura da garra
+<bullet.bmp> O comando JA W tras a abertura da garra para o tamanho <i><var></i> dentro do tempo especificado. Se <i><time></i> é omitido, o movimento é a máxima velocidade. 
+<color=4><c><b>Atenção!</b> Tenha certeza de selecionar a exata <var> para a abertura da garra. Um tamanho incorreto irá causar uma constante e excessiva força ao motor, e vai danificar o motor. </c></color>
+
+<bullet.bmp> O comando JA W não é aplicável para a garra do <b>SCORBOT-ER VII</b>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> JAW 40
+<bullet.bmp> Abre a garra a 40 porcento de sua abertura.
+
+<chiclet.bmp> JAW 0
+<bullet.bmp> Fecha a garra.
+     
+<b>Notas:</b> 
+<bullet.bmp> O comando JAW ativa o servo controle para o eixo da garra, enquanto os comandos OPEN/CLOSE desconectam o eixo da garra do loop de servo controle.
+
+<bullet.bmp> A menos que voce precise de um comando JAW para uma aplicação específica, os comandos OPEN/CLOSE são recomendáveis.
+----- SHM ---- page 52 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+L <i><linha> <linha2> </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra a lista de linhas de programas, a partir da primeira linha especificada até a segunda linha especificada. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> 16:?L 3 13 
+****** listing 3 to 13***** 
+     <i>(listar de 3 até 13) </i>
+      
+      3: GOSUB MVMAX 
+      4: IF MVMAX 
+      5: IF VA >= VB
+      6: MOVE 0 
+      7: DELAY 1 
+      8: SET TI=LTA - LTB 
+      9: IF TI > 100 
+      10: MOVE 00 TI 
+      11: ELSE(9) 
+      12: MOVE 00 
+      13: ENDIF(9) 
+ **** End oi listing **** 
+   
+<b>Nota:</b> 
+<bullet.bmp> Quando usar este comando para listar as linhas de programas, os comandos ENDFOR, ENDIF e ELSE serão seguidos pelo número da linha dos correspondentes comandos FOR e IF. 
+----- SHM ---- page 53 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+LABEL <i><labeln></i> 
+Onde: <i><labeln> </i>é qualquer número, O <= <i>labeln</i> <= 9999. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Marca o início do programa da subrotina a qual é executada quando o comando GOTO é dado. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> LABEL 12
+      MOVEL 1 
+      MOVE 15 20 
+      OPEN 
+      MOVE JJ 
+      GOTO 12 
+
+ 
+----- SHM ---- page 54 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+LET PAR <i><n> <valor> </i>
+Onde:
+<bullet.bmp> <i><n></i> é o número do parametro, e 
+<bullet.bmp> <i><valor></i> é uma variável ou constante definida. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta o valor do parametro do sistema <i><n></i> para <i><valor>. </i>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> LET PAR 21=400	(seta parametro 21 para 400) 
+
+<chiclet.bmp> LET PAR 299=50	(seta parametro 299 para 50) 
+
+<b>Nota:</b> 
+<color=4><c> <b>Atenção!</b> Use com extrema cautela ao tentar mudar os parametros do sistema. Não altere parametros enquanto os programas estão rodando. </c></color>
+
+<bullet.bmp> Após voce ter setado os novos parametros do sistema, ative-os através do comando: 
+
+INIT CONTROL 
+
+Vide o Apendice B para uma descrição dos parametros do sistema.
+----- SHM ---- page 55 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+LIST <i><prog></i>  
+Onde: <i><prog></i> é um programa definido.
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra todas as linhas do programa <i><prog></i>. Se <i><prog></i> é omitido, todos os programas são mostrados. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> LIST OUT
+<bullet.bmp> Mostra todas as linhas no programa OUT. 
+
+<chiclet.bmp> LIST 
+<bullet.bmp> Mostra todas as linhas de todos os programas. 
+----- SHM ---- page 56 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+LISTP 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra uma lista de todas as posições definidas.
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> LISTP 
+      DEFINED POINTS 
+
+      point name 		group 		(axis) 
+     <i> Nome do ponto</i>	<i>grupo		(eixo) </i>
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      0			: A
+      P[10]			: A
+      PICP[10]		: A
+      AA			: A
+      00			: B
+      B1			: B
+      B2			: B
+      BBA[50]		: B
+      C1			: C		: 10
+      C2			: C		: 11
+      C3[100]		: C
+      
+----- SHM ---- page 57 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+LISTPV <i><pos> </i>
+LISTPV POSITION 
+
+<b>Descrição:</b>
+
+<color=6b>LISTPV <i><pos></i></color>
+
+<bullet.bmp> Mostra em <b>juntas</b> (unidades de encoder) a localização da posição especificada. 
+<bullet.bmp> Se <i><pos></i> é uma posição do robo (grupo A), a localização em juntas e cartesianas são mostradas
+
+<color=6b>LISTPV POSITION</color>
+
+<bullet.bmp> Mostra a localização atual do braço do robo. 
+
+<b>Exemplos:</b> 
+
+<chiclet.bmp> LISTPV P1 
+      Position P1
+
+        1:0			2:5	3:13926		4:0		5:0
+        X:5197		Y:0	Z:9963		P:594		R:-3
+
+<bullet.bmp> Os valores dos eixos de P1 são mostrados em pulsos (unidades) de encoder.
+<bullet.bmp> Se P1 é uma posição do robo, os valores cartesianos também são mostrados em décimos de milímetro (X, Y, ,Z) e décimos de grau (pulso e munheca). 
+----- SHM ---- page 58 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+LLISTVAR 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra todas as variáveis do usuário e do sistema. 
+<bullet.bmp> Colchetes indicam os vetores de variáveis; por exemplo, IN[16]. 
+<bullet.bmp> Parenteses indicam a variável local, usada apenas pelo programa especificado, por exemplo, I(DEMO). 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> LISTVAR
+
+      		SYSTEM VARIABLES 
+		<i>variáveis do sistema </i>
+	***************************************
+      IN [16]  
+      ENC[11]  
+      TIME 
+      LTA 
+      LTB 
+      MFLAG
+      ERROR
+      OUT [16] 
+      ANOUT [11]  
+
+      		USER VARIABLES 
+		<i>variáveis do usuário </i>
+	***************************************
+      I (DEMO)
+      J (DEMO)  
+      I (IO) 
+      I (INOUT) 
+      G1 
+      G2
+
+
+----- SHM ---- page 59 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+LSON, LSOFF 
+
+<b>Descrição:</b>
+
+<color=6b>LSON</color>
+
+<bullet.bmp> LSON Conecta os <b>limit switches</b> a entrada dos sensores do controlador. Quando em modo LSON, as entradas estão inativas. Todas referências as entradas (incluindo IN[<i>n</i>) atualmente referem-se aos limit switches
+
+<color=6b>LSOFF</color>
+
+<bullet.bmp> Mostra a localização atual do braço do robo. 
+
+<bullet.bmp> Desconecta os limit switches dos sensores de entrada do controlador. Quando em modo LSOFF, as <b>entradas</b> estão ativas.
+
+
+HOME automaticamente liga para LSON e volta para LSOFF. 
+	
+<b>Exemplos:</b> 
+
+<chiclet.bmp> LSON 
+      SHOW DIN 
+
+<bullet.bmp> Mostra o status de todos os limit switches.
+
+<chiclet.bmp> LSOFF 
+
+       
+----- SHM ---- page 60 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<color=4><c>Por favor leia esta seção com atenção. O comando MOVE pode ser confuso uma vez que sua execução não está sincronizada com o fluxo do programa! O comando MOVED é usualmente indicado para a maioria das aplicações. </c></color>
+______________________________________________________________________________________________________________________________________________________
+
+<color=6b><u>MOVE:</u></color>
+
+<b>Formato:</b>	
+
+MOVE<i> <pos> <tempo> </i>
+Onde: 
+<bullet.bmp> <i><pos> </i>é um nome definido pelo usuário, e  
+<bullet.bmp> <i><tempo></i> é uma variável ou constante definida. 
+
+<b>Descrição:</b>
+
+<color=6b>MOVE <i><pos> </i></color>
+
+<bullet.bmp> Move o robo para a posição especificada, de acordo com a velocidade atual. 
+
+<color=6b>MOVE <i><pos> <tempo></i> </color>
+
+<bullet.bmp> Move o robo para a posição dentro do tempo especificado. O tempo é dado em unidades de centésimos de segundo. 
+
+<bullet.bmp> O comando MOVE deposita o comando de movimento dentro do <b>Buffer de movimentos</b>. O programa sucedendo o comando MOVE não aguarda pela operação ser Completada. A rotina do programa continua indiferente quando o comando MOVE é realizado. É útil para quando é possível executar outro comando durante o movimento.
+
+<bullet.bmp> Se o programa consiste de diversos comandos consecutivos MOVE, eles são lidos pelo programa até que o buffer de movimento esteja cheio, indiferente da execução atual. Portanto, programas contendo comandos diferentes de MOVE podem não ser executados na aparente ordem do programa.
+
+<bullet.bmp> A duração (tempo) da execução do comando MOVE é especificada (ou é calculada a partir da velocidade atual) referente de quão perto os eixos estão da posição final. 
+
+<bullet.bmp> Existem três métodos para garantir sequencialidade no programa contendo comandos MOVE. 
+<onestep.bmp> Use o MOVE com sua opção de <i><tempo></i>, seguido pelo comando DELA Y de igual tempo. Por exemplo: 
+
+MOVE <i><pos1> <tempo1> </i>
+DELAY <i><tempo1> </i>
+MOVE <i><pos2> <tempo2></i> 
+DELAY <i><tempo2> </i>
+
+<onestep.bmp> Use comandos sequenciados, tais como WAIT. Por exemplo: 
+
+MOVE <i><pos1> </i>
+WAIT IN[1]=1
+
+<onestep.bmp> Use o comando MOVED.
+________________________________________________________________________________________________________________________________________________________
+
+<color=6b><u>MOVED:</u></color>
+
+<b>Formato:</b>	
+
+MOVED<i> <pos> <tempo> </i>
+Onde: 
+<bullet.bmp> <i><pos> </i>é um nome definido pelo usuário, e  
+<bullet.bmp> <i><tempo></i> é uma variável ou constante definida. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Diferente do comando MOVE, o comando MOVED garante que as operações definidas no programa são executadas sequencialmente.
+
+<bullet.bmp> O comando MOVED é depositado dentro do buffer de movimentos apenas quando o comando MOVED prévio foi completamente executado. 
+
+<bullet.bmp> O comando MOVED é terminado apenas quando os eixos tiverem chegado as suas posições finais dentro da precisão especificada, não importando quanto tempo isto leve, e mesmo quando <i><tempo> </i>não foi definido. 
+
+<bullet.bmp> Para garantir que MOVED é executado dentro do período de tempo definido,.conclua com o comando EXACT OFF. Por exemplo: 
+
+EXACT OFFA 
+MOVED <i><pos1></i>		Eixo atinge <i><pos1></i> e <i><pos2></i> dentro do período definido de tempo.
+MOVED <i><pos2></i>		
+EXACT A 
+MOVED <i><pos3></i>		Eixo atinge <i><pos3> </i>dentro da precisão requerida, indiferente do tempo.
+
+
+<boxc><b>SUMÁRIO: MOVE/MOVED</b></box>
+
+<bullet.bmp> Comando MOVE:		Fácil de programar, não pode garantir sequencialidade e precisão. 
+
+<bullet.bmp> Comando MOVED:		Garante sequencialidade e precisão, mas não tempo. 
+
+<bullet.bmp> Comando MOVED:		Garante sequencialidade e tempo, mas não precisão. com comando EXACT OFF: 
+
+
+<b>Exemplos:</b> 
+
+<chiclet.bmp> MOVE 3
+      MOVE AA 
+      PRINT "COMMAND GIVEN" 
+
+<bullet.bmp> O robo move-se para a posição 3 e então para a posição AA. A linha "COMMAND GIVEN" irá provavelmente ser impressa antes do atual movimento ser completado. 
+
+<chiclet.bmp> MOVE 3
+      MOVE AA 
+      MOVE POS [1] 
+      SET OUT [1] = 1 
+      DELAY 1000 
+
+<bullet.bmp> Os três comandos de movimento são depositados quase que simultaneamente no buffer de movimentos. O robo move-se para a posição 3, então para AA e então para POS[1]. Simultaneamente com o movimento para a posição 3, a saída 1 é setada ON e o programa é atrasado por 10 segundos. Este programa acaba dentro de 10 segundos após sua ativação, indiferente da localização do eixo. 
+
+<chiclet.bmp> MOVE 3 500
+      DELAY 500  
+      MOVE AA 800 
+      DELAY 800 
+      MOVE POS [1]  200
+      DELAY 200
+      SET OUT [1] = 1 
+      DELAY 1000 
+
+<bullet.bmp> O robo move-se para a posição 3 em 5 segundos, então para AA em 8 segundos, então para POS[1] em 2 segundos. Então a saída 1 é setada ON, e um atraso de 10 segundos ocorre. Tempo total para execução do programa é de 25 segundos, mais uma fração desprezível de tempo para execuções de comandos.
+
+<chiclet.bmp> MOVED 3
+      SET OUT [1] = 1
+      DELAY 1000 
+      MOVED AA 
+      MOVED POS[1] 
+
+<bullet.bmp> Todos os comandos são executados na sequencia. Todas as posições são alcançadas dentro da precisão tolerada.
+
+<chiclet.bmp> EXACT OFFA 
+      MOVED 3 
+      MOVED AA 
+      EXACT A
+      MOVED POS[1] 
+      CLOSE
+      SETOUT[1] =1 
+
+<bullet.bmp> Este formato de programa é recomendável, supondo-se que a posição 3 e AA estão ao longo do caminho e posição POS[1] é onde um objeto é pego. Posição 3 e AA são alcançadas dentro de um tempo especificado, indiferente da precisão. Posição POS[1] esta precisamente atingida, mas com um possível atraso. Todos os comandos neste programa são 
+ativados em sequência. 
+
+<b>Nota:</b>
+
+<bullet.bmp> Vide o comando <jump=EXACT>EXACT</jump>.
+
+     
+
+----- SHM ---- page 61 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+MOVEC<i> <pos1> <pos2></i> 
+MOVECD <i><pos1> <pos2></i>		EDIÇÃO apenas 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Move o robo ao longo de uma trajetória <b>circular</b>, a partir da localização atual para <i><pos1></i>, através da <i><pos2></i>. A localização da <i><pos2></i> e <i><pos1> </i>determina o comprimento da trajetória, a qual em giro determina o tempo necessário para completar o movimento. 
+
+<bullet.bmp> O tempo requerido para completar o movimento pode ser definido pelo comando SPEED precedente. A velocidade do movimento circular determina a precisão da trajetória circular. 
+
+<bullet.bmp> Todos os outros aspectos dos comandos MOVEC/MOVECD são similares aos dos comandos MOVE/MOVED. 
+
+<color=4><c>Atenção! Cuidado quando gravar posições para comandos MOVEC. Limitações mecânicas ou obstáculos, tais como o pr6prio robo, podem tornar o arco resultante inválido. </c></color>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> MOVEC 1 2 
+<bullet.bmp> Move ao longo da trajetória circular a partir da atual posição para a posição1 via posição2. 
+
+<chiclet.bmp> SPEED 20 
+      MOVEC 2 1 
+
+<bullet.bmp> Move ao longo da trajetória circular a partir da atual posição para a posição 2 via posição 1, a velocidade 20. 
+
+<b>Nota:</b>
+<bullet.bmp> Este comando é válido apenas para posições do robo (grupo A). 
+
+
+ 
+----- SHM ---- page 62 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+MOVEL <i><pos1> <tempo> </i>
+MOVELD <i><pos1> <tempo></i>  EDIÇÃO apenas 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Move o robo ao longo de uma trajetória<b> linear</b> (linha reta) a partir de r localização atual para a <i><pos1></i>.
+
+<bullet.bmp> A velocidade do movimento linear determina a precisão da trajetória. 
+
+<bullet.bmp> Todos os outros aspectos deste comando são similares aos dos comandos MOVE/MOVED
+
+<color=4><c>Atenção! Cuidado quando gravar posições para os comando MOVEL. Limitações mecânicas ou obstáculos, tais como o próprio robo, podem tornar o resultado do arco inválido. </c></color>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> MOVELD TR 
+<bullet.bmp> Move-se ao longo de uma linha reta para a posição TR.
+
+<b>Nota:</b>
+<bullet.bmp> Este comando é válido apenas para posições do robo (grupo A). 
+
+
+
+
+ 
+----- SHM ---- page 63 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+MOVES <i><pvect> < firstpos> <lastpos> <tempo> </i>
+MOVESD < pvect > < firstpos> < lastpos> < tempo> 		Apenas modo EDIÇÃO:
+
+Onde:
+
+<bullet.bmp> <i><firstpos></i> é a primeira posição a ser alcançada, e 
+<bullet.bmp> <i><lastpos ></i> é a última posição alcançada. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Move o eixo através de qualquer número de vetores de posição consecutivos <i><firstpos></i> para <i><lastpos></i>, sem pausa. 
+
+<bullet.bmp> Um perfil de movimento é aplicado ao movimento introduzido. Trajetórias de aceleração e desaceleração ocorrem apenas no início e fim do movimento total. Uma vez que o tempo distribuido para cada segmento é igual, a velocidade do movimento é determinado pela distância entre os vetores de posição. 
+Todos os outros aspectos dos comandos MOVES/MOVESD são similares aos dos comandos MOVE/MOVED.
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> MOVED PATH [1] 
+      MOVESD PATH 2 20
+      MOVESD PATH 19 1 
+
+<bullet.bmp> Move para a posição de partida 1. Após move-se em uma trajetória contínua através das posições 2 para 20. Então executa a mesma trajetória na direção oposta. 
+
+<b>Nota:</b>
+<bullet.bmp> E recomendável que os vetores de posição sejam igualmente espaçados, para permitir uma velocidade de curva suave. 
+----- SHM ---- page 64 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+MPROFlLE PARABOLE A/B/C 
+MPROFILE TRAPEZE A/B/C
+
+
+<b>Descrição:</b>
+
+<bullet.bmp> Atribue um perfil de movimento a um grupo especificado
+
+<bullet.bmp> Dois tipos de controle de trajetória de perfis são dis.poníveis: <b>parabólico</b> e <b>trapezoldal</b>. O comando TRAPEZE causa uma rápida aceleração e desaceleração nos eixos no início e fim do movimento, com uma velocidade constante ao longo da trajetória. O comando P ARABOLE causa uma aceleração lenta nos eixos até que a máxima velocidade seja alcançada, então a desacelera a mesma proporção. Vide diagrama abaixo. 
+
+\par\qc\{bmct Parabole&trapeze.bmp\}\par\ql
+
+<bullet.bmp> Voce pode atribuir diferentes controles de perfis a diferentes grupos de controle. Por exemplo: perfil parabólico para o grupo A, perfil trapezoidal para o grupo B
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> MPROFILE TRAPEZE A 
+      
+<bullet.bmp> Muda o perfil de movimento do grupo A do robo para TRAPEZE.
+
+<b>Nota:</b>
+<bullet.bmp> Velocidade mínima para aceleração e desaceleração é determinada pelo parametro 76.
+----- SHM ---- page 65 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+NOECHO
+
+<b>Descrição:</b>
+
+<bullet.bmp> Cancela o modo ECHO. 
+
+<bullet.bmp> Quando em modo NOECHO, os caracteres transmitidos ao controlador não são mostrados na tela. 
+
+<bullet.bmp> O comando ECHO cancela o modo NOECHO. 
+----- SHM ---- page 66 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+<target>NOQUIET</target>
+<b>Formato:</b>	
+
+NOQUIET
+
+<b>Descrição:</b>
+
+<bullet.bmp> Durante a execução do programa, todos os comandos DIRETO dentro do programa (isto é, comandos introduzidos com @ no modo EDIÇÃO) são mostrados assim que são Executados. 
+
+<bullet.bmp> Este é o modo de default.
+
+<b>Nota:</b>
+<bullet.bmp> Vide o comando <jump=QUIET>QUIET</jump>.
+----- SHM ---- page 67 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>OPEN</target>
+<b>Formato:</b>	
+
+OPEN <i><var></i>
+Onde: <i><var></i> é uma constante ou variável definida. 0 < var < 5000. 
+
+<b>Descrição:</b>
+
+<color=6b>OPEN</color>
+
+<bullet.bmp> Abre a garra até o fim do movimento da garra. 
+
+<bullet.bmp> Se a garra está conectada ao controle de loop, o comando OPEN desconecta-o antes de executar qualquer movimento da garra. 
+
+<color=6b>OPEN <i><var></i></color>
+
+<bullet.bmp> > Uma variável ou constante seta o DAC da garra para manter o acionamento do motor da garra para força adicional de fechamento. A força é proporcional a <i><var> . </i>
+
+
+O comando OPEN desconecta a garra do servo controle de loop. 
+
+<color=4><c> Atenção! Use a opção de variável com extrema cautela para evitar danos ao motor e suas engrenagens. Use este comando por breves períodos, e sete o valor <i><var></i> o mais baixo possível. </c></color>
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> OPEN 
+<bullet.bmp> Abre a garra 
+
+<chiclet.bmp> OPEN 1000 
+<bullet.bmp> Seta o valor DAC da garra para 1000 
+ 
+<chiclet.bmp> OPEN PRESS 
+<bullet.bmp> Seta o valor DAC da garra DAC para o valor de PRESS
+
+<b>Nota:</b>
+<bullet.bmp> Vide o comando <jump=CLOSE>CLOSE</jump>.
+
+----- SHM ---- page 68 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+<target>ORIF</target>
+<b>Formato:</b>	
+
+ORIF <i><var1> <cond> <var2></i> 
+
+Onde: 
+<bullet.bmp> <i><var1> e <var2></i> são variáveis ou constantes user definidas, e 
+<bullet.bmp> <i><cond></i> pode ser: <, >, =, < =, > =, < > 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Um tipo de comando IF , ORIF combina-se com a condição e outros comandos IF. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> IF A=B 
+      <b>ORIF</b> A=D 
+      CLOSE
+      ELSE
+      OPEN 
+      <b>ENDIF </b>
+
+<b>Nota:</b>
+<bullet.bmp> Vide o comando <jump=IF>IF</jump>.
+----- SHM ---- page 69 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+P 
+
+<b>Descrição:</b>
+<bullet.bmp> No modo EDIÇÃO, vai para a linha anterior no programa.
+----- SHM ---- page 70 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+PEND <i><var1></i> FROM <i><var2> </i>
+POST <i><var3></i> TO <i><var2> </i>
+
+Onde: <i><var1></i> e <i><var2></i> devem ser variáveis definidas, e <i><var3></i> é uma variável ou constante. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Os comandos PEND e POST são úteis para sincronização da execução simultânea de programas. Quando o programa encontra o comando PEND <i><var 1></i> FROM <i><var2></i> uma das seguintes opções ocorre: 
+
+<color=6b>1.</color> Se<i> <var2></i> tem valor de zero, a execução do programa é suspensa até outro programa em andamento "enviar" um valor diferente de zero através do comando POST.
+
+<color=6b>2.</color> Se <i><var2></i> tem um valor diferente de zero, este valor é atribuído a<i> <var 1></i> e o valor de <<i>var2</i>> é setada para zero. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> PROGRAM DOACT 
+      GLOBAL SIGN 
+      DEFINE VALUE 
+      SET SIGN=0
+      PEND VALUE FROM SIGN 
+      RUN ACT
+      END 
+
+      PROGRAM SEND 
+      POST 1 TO SIGN 
+      END 
+
+<bullet.bmp> A execução do programa DOACT será suspesa até que o programa SEND seja ativado e atribua o valor de 1 para SIGN. 
+
+----- SHM ---- page 71 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+PRCOM <i><n> <argl> <arg2> <arg3> </i>
+
+Onde: 
+<i><n></i> é a porta de comunicação RS232, 1 <= <i>n</i> <= 8, e
+<bullet.bmp>  <i><arg></i> é também uma variável ou 
+<bullet.bmp> a string dentro das aspas ("  "). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Envia valores de strings e variáveis para a porta RS232 especificada. 
+
+<bullet.bmp> O texto seguinte PRCOM <i><n></i> pode conter até 30 caracteres e espaços, não incluindo as aspas. O texto pode conter um total de 3 argumentos e/ou variáveis
+
+<bullet.bmp> A variável é um argumento, referente ao comprimento. 
+
+<bullet.bmp> A string de até dez caracteres é um argumento. Strings que excedem 10 e 20 caracteres são tratadas, respectivamente como dois e três argumentos. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> PRCOM 6 "TESTING" 
+<bullet.bmp> O próximo "testing" será transmitido para a porta RS232 número 6.
+----- SHM ---- page 72 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>PRINT</target>
+<b>Formato:</b>	
+
+PRINT <i><arg1> <arg2>... <arg4></i> 
+
+Onde: 
+<bullet.bmp> <i><arg></i> é também uma variável ou string dentro das aspas (" "). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra os valores das strings e variáveis na tela. 
+
+<bullet.bmp> O texto seguinte PRINT pode conter até 40 caracteres e espaços não incluindo as aspas. O texto pode conter um total de 4 argumentos e/ou variáveis. 
+
+<bullet.bmp> A variável é um argumento, referente ao comprimento.
+
+<bullet.bmp> A string de até dez caracteres é um argumento. Strings que excederem 10,20 e 30 caracteres são tratadas, respectivamente, como dois, três e quatro argumentos
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> SET NA=5 
+      PRINT "THE ROBOT HAS" NA "AXES" 
+
+<bullet.bmp> Irá mostrar na tela: 
+"The robot has 5 axes" 
+
+<onestep.bmp> O texto "the robot has" é os argumentos 1 e 2 (contém 13 caracteres);
+<onestep.bmp> A variável NA é o argumento 3;
+<onestep.bmp> O texto "axes" é o argumento 4. 
+
+----- SHM ---- page 73 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+PRINTLN <i><arg> <arg2>... <arg4> </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> O mesmo que PRINT, mas insere um carriage return (no início da linha) e o line feed (na próxima linha) antes de mostrar o texto. 
+
+<bullet.bmp> Introduzindo PRINTLN sem um argumento, simplesmente introduz carriage return e line feed. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> SET X=7 
+      SET Y=15
+      SET J=8 
+      SET K=20
+      PRINTLN "TANK #" X "LEVEL IS : "Y
+      PRINT "INCHES" 
+      PRINTLN "TANK #" J "LEVEL IS : "K
+      PRINT "INCHES" 
+
+<bullet.bmp> Irá mostrar:
+  TANK #7 LEVEL IS: 15 INCHES
+  TANK #8 LEVEL IS: 20 INCHES 
+----- SHM ---- page 74 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+PRIORITY <prog> <var> 
+
+Onde: 
+<bullet.bmp> <i><prog></i> é um programa definido 
+<bullet.bmp> <i><var></i> é uma variável ou constante definida.
+
+<b>Descrição:</b>
+
+<bullet.bmp> Quando rodar diversos programas simultaneamente, aqueles com a mais alta prioridade irão rodar primeiro. 
+
+<bullet.bmp> Programas com a mesma prioridade partilham a CPU usando um algoritimo de distribuição igual. 
+
+<bullet.bmp> O default de prioridade para programas é 5.
+
+<bullet.bmp> O comando PRIORITY altera tanto a prioridade atual, como a default de <i><prog></i> para o valor de <i><var>. </i>
+
+<bullet.bmp> Prioridades vão de 1 a 10, sendo 10 a mais alta prioridade. 
+
+<bullet.bmp> O Se o valor de <i><var> </i>é maior que 10, a prioridade é setado para 10. Se o valor de <i><var></i> é menor que 1, prioridade é setada para 1. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> PRIORITY PALET 7 
+<bullet.bmp> Atribue ao programa PALET a prioridade de 7. 
+
+<b>Nota:</b>
+<bullet.bmp> Vide o comando <jump=RUN>RUN</jump>.
+----- SHM ---- page 75 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+PRLNCOM <i><n> <arg1> <arg2> <arg3> </i>
+
+Onde: 
+<bullet.bmp> <i><n> </i>é a porta de comunicação RS232, 1 < n < 8, e 
+<bullet.bmp> <i><arg></i> é também uma variável ou string dentro de aspas (" "). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mesmo que o comando PRCOM, mas adiciona carriage retum <i>após</i> envio do texto para a porta RS232. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> PRLNCOM 7 "THE VALUE IS" VAL[I] 
+
+<bullet.bmp> O texto "the value is" e o valor da variável . VAL[I] serão transmitidos para a porta RS232 número 7, seguida pelo carriage return.
+
+<bullet.bmp> Se, por exemplo, o valor de VAL[I] é 26, a string "26" (não o caracter ASCII 26) será enviado.
+----- SHM ---- page 76 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+QPOST <i><var3></i> para <i><var2> </i>
+QPEND <i><var1></i> de <i><var2> </i>
+
+Onde:
+<bullet.bmp> <i><var1></i> é uma variável definida,
+<bullet.bmp> <i><var2></i> é um vetor definido 
+<bullet.bmp> <i><var3></i> é uma variável ou constante definida. 
+
+<b>Descrição:</b>
+
+<color=6b>QPOST</color>
+<bullet.bmp> Enfilera os valores a serem processados.
+
+<color=6b>QPEND</color>
+<bullet.bmp> Toma os valor:s da fila na mesma ordem de que eles foram introduzidos pelo comando QPOST.
+
+<bullet.bmp> Se a fila está exaurida, QPEND suspende a execução do programa até que o comando QPOST insira o valor. 
+
+<bullet.bmp> O tamanho máximo da fila é igual a dimensão do vetor <i><var2></i> menos 1. Se a fila está cheia, QPOST suspende a execução do programa até que o comando QPEND tome o valor da fila. 
+
+<c><color=4b>Importante:</color> A fila deve ser inicializada antes do uso, setando-se seus elementos para zero. </c>
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> PROGRAM INITQ		Define e inicializa a fila. 
+      DIMG QUEUE[1O] 
+      DEFINE I
+      FOR I=1 TO 10 
+        SET QUEUE[I]=O
+      ENDFOR
+      END
+
+      PROGRAM DOACT		Toma o valor da fila. 
+      DEFINE VALUE
+      LABEL 1
+      QPEND VALUE FROM QUEUE 
+      RUN ACT
+      GOTO 1
+      END
+
+<bullet.bmp> O programa ACT irá rodar quando os valores são depositados na QUEUE pelo programa SEND. Se nenhum valor foi enviado, DOACT será suspenso até a chegada do valor. 
+
+      PROGRAM SEND		Coloca um valor na queue(fila). 
+      QPOST 1 TO QUEUE 
+      END
+----- SHM ---- page 77 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+<target>QUIET</target>
+<b>Formato:</b>	
+
+QUIET
+
+<b>Descrição:</b>
+
+<bullet.bmp> Cancela o modo NOQUIET. Quando em modo QUIET, comandos DIRETO e dentro do programa (aqueles precedidos por @ ) <b>não</b> serão mostrados durante a  execução do programa. 
+
+<b>Nota:</b>
+<bullet.bmp> Vide o comando <jump=NOQUIET>NOQUIET</jump>.
+----- SHM ---- page 78 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+<target>READ</target>
+<b>Formato:</b>	
+
+READ <i><arg1> <arg2>... <arg4></i> 
+
+Onde: 
+<bullet.bmp> <i><arg></i> é também uma variável ou 
+<bullet.bmp> string dentro das aspas (" "). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Quando READ encontra um argumento que é uma <b>string,</b> o texto será mostrado como uma exposição de PRINT.
+
+<bullet.bmp> Quando READ encontra um argumento o qual é uma <b>variável</b>, a "?" será mostrada na tela, indicando que está esperando por um valor a ser introduzido. 
+
+<bullet.bmp> Apenas valores numéricos serão considerados. Digitando < Enter > sem especificar o valor, o valor entrado será O. 
+
+<bullet.bmp> Qualquer resposta para "?" que não um valor numérico será interpretado como um comando. Se o comando é introduzido, ele será executado e o comando O READ irá novamente indagá-Io para introduzir um valor, mostrando a mensagem: 
+
+ENTER value >>
+
+<b>Exemplo:</b>
+<chiclet.bmp> READ "entre com o valor de x"
+
+<bullet.bmp> Irá mostrar na tela: 
+entre com o valor de x ? 
+
+<onestep.bmp> Se voce introduziu 254, o valor 254 será atribuído para X. 
+
+<b>Nota:</b>
+<bullet.bmp> Vide o comando <jump=PRINT>PRINT</jump>.
+----- SHM ---- page 79 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+READCOM <i><n> <var></i> 
+
+Onde: 
+<bullet.bmp> <i><n></i> é uma porta de comunicação RS232, 1 <= n <= 8, e
+<bullet.bmp> <i><var></i> é a variável. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Acompanha PRLNCOM.
+
+<bullet.bmp> Quando o comando READCOM da porta especificada é encontrado, ele aguarda on line pela string a qual contém números ASCII seguidos pelo carriage return. Este valor numérico então é atribuído para a variável especificada. 
+
+<b>Exemplo:</b>
+<chiclet.bmp> READCOM 1, RPART
+      IF RPART > 9999
+      PRINTLN "CAN'T MANUFACTURE MORE THAN 9999 PIECES" 
+----- SHM ---- page 80 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+RECEIVE <i><prog></i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> O comando RECEIVE carrega dados do arquivo de backup do usuário dentro da User RAM do controlador, através da linha RS232. 
+
+<c><color=4><b>Atenção!</b> Este comando apaga os conteúdos da User RAM do controlador.</color></c>
+
+<bullet.bmp> O arquivo a ser recebido deve ser no formato criado pelo comando SEND. 
+
+<bullet.bmp> Após voce introduzir o comando RECEIVE, o controlador informa: 
+
+WARNING,  ALL USERS PROGRAMS POINTS AND VARIABLES WILL BE ERASED ...!!! 
+MAKE SURE TO HAVE A BACKUP. 
+Are you determined doing initialization ?? (YES/NO) 
+
+<bullet.bmp> Se voce responde sim, o controlador mostra a seguinte mensagem: 
+
+PLEASE SEND FILES 
+<i>(Vide sua documentação do terminal para instruções exatas de como enviar e receber arquivos.) </i>
+
+<bullet.bmp> O computador agora envia arquivos on-line para o controlador. Após cada linha o computador aguarda pelos dois pontos ":" a serem transmitidos pelo controlador. Isto indica que a próxima linha pode ser enviada. 
+
+<bullet.bmp> A última linha do arquivo a ser transmitido deve ser a mensagem:  (END) 
+  Ao qual o controlador responde: END OF LOADING 
+
+<bullet.bmp> RECEIVE <i><prog></i> aceita os conteúdos do arquivo de backup no formato gerado pelos comandos SEND. Ele aceita apenas um programa e introduz seu conteúdo dentro do <i><prog></i> especificado. Isto não afeta outros programas e posições armazenados na User RAM. 
+
+<b>Notas:</b> 
+
+<bullet.bmp> Se voce está usando o ATS, voce pode facilmente fazer back-up e restore da User RAM usando o menu de Backup Manager.
+
+<bullet.bmp> Vide o comando <bullet.bmp> Vide o comando <jump=SEND>SEND</jump>.
+----- SHM ---- page 81 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+REMOVE <i><prog></i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Deleta um programa da user RAM e deixa livre todos os espaços alocados para aquele programa. 
+
+<bullet.bmp> O sistema irá questioná-lo para a verificação de:
+Are you sure? (yes/no) 
+
+<bullet.bmp> Variáveis locais atribuídas a este programas também são deletadas 
+
+<b>Exemplo:</b>
+<chiclet.bmp> REMOVE PALET	Deleta o programa PALET
+----- SHM ---- page 82 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+RENAME <i><prog1> <prog2> </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Altera o nome do programa de <i><prog1> para <prog2> </i>
+
+<bullet.bmp> Se o nome <i><prog2></i> já existe, o comando não é executado, e uma mensagem de erro é mostrada: 
+
+<i><prog2></i> already exists 
+
+<bullet.bmp> Apenas o nome do programa é alterado, o nome original <i><prog1></i> não mais existirá. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> RENAME PAL NEW 
+<bullet.bmp> Programa PAL é agora chamado NEW. Programa PAL não é mais listado no diretório.
+----- SHM ---- page 83 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+RUN <i><prog> <var></i> 
+
+Onde: 
+<bullet.bmp> <i><prog></i> é um nome de programa definido, e 
+<bullet.bmp> <i><var></i> é uma variável ou constante definida. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Inicia a execução da tarefa a partir da primeira linha do programa <i><prog></i>. 
+
+<bullet.bmp> Quando o programa encontra um comando RUN <i><prog></i>, ambos os programas são executados simultaneamente. 
+
+<bullet.bmp> <i><var></i> é a prioridade do programa, e atinge de 1 (menor) a 10 (maior). 
+
+<bullet.bmp> No modo EDIÇAO, voce pode atribuir a prioridade entrando com a variável ou também com o comando PRIORITY ou o comando RUN. Se voce nao atribuiu a prioridade, a prioridade do programa automaticamente é setada para o default de valor 5. 
+
+<bullet.bmp> No modo DIRETO, se voce não especifica a prioridade quando introduzindo o comando RUN, o programa assume a prioridade de default da última setagem, pelos comandos PRIORITY ou RUN. Se voce não especificar a prioridade, o default do programa é alterado para o novo valor. 
+
+<bullet.bmp> Programas com mesma prioridade irão rodar simultaneamente.
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> RUN DEMO 
+<bullet.bmp> Programa DEMO roda com a prioridade de default.
+
+<chiclet.bmp> RUN IOS 9 
+<bullet.bmp> Programa IOS roda com prioridade 9. 
+----- SHM ---- page 84 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+S <i><linha n></i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Um comando usado enquanto edita-se programas. 
+
+<color=6b>S</color>	
+<bullet.bmp> Move o EDITOR para a primeira linha do programa que está sendo editado. 
+
+<color=6b>S <i><linha n></i></color> 
+<bullet.bmp> Move o EDITOR para a linha especificada
+----- SHM ---- page 85 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SENCOM <i><n>  <var> </i>
+
+Onde: 
+<bullet.bmp> <i><n></i> é a porta de comunicação RS232, 1 <= n <= 8, e 
+<bullet.bmp> <i><var></i> é a variável ou constante. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Envia um byte através da porta RS232 especificada. 
+
+<bullet.bmp> O valor do byte é especificado pela variável ou constante. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> PROGRAM ESC 
+        DEFINE I
+        CLRCOM 2
+        FOR I=1 TO 5
+        SENDCOM 2, 27
+        DELAY 20
+        ENDFOR
+      END
+
+<bullet.bmp> Este programa limpa os buffers da porta RS232 2. Ele envia 27, o código ASCII para < Esc >, cinco vezes para a porta 2.    
+----- SHM ---- page 86 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+SEND 
+SEND <i><prog></i>
+SENDPROG
+SENDVAR 
+SENDPOINT 
+SENDPAR 
+
+Onde: <i><prog></i> é um programa definido. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Os comandos SEND produzem listas no formato compatível com os comandos RECEIVE e APPEND. Transmitindo a lista criada pelo SEND para o computador, produz-se um arquivo de back-up dos dados. 
+
+<color=6b>SEND</color>
+
+<bullet.bmp> Produz uma lista de todos os programas, variáveis, pontos, parametros, e atribuições no formato compatível com o RECEIVE e APPEND. 
+
+<bullet.bmp> SEND serve para criar um back-up completo da User RAM
+
+<color=6b>SEND <i><prog></i></color>
+
+<bullet.bmp> Produz uma lista de todos os programas especificados, no formato compativel com o comando RECEIVE <i><prog></i> . 
+
+<color=6b>SENDPROG</color>
+
+<bullet.bmp> Produz uma lista de todos os programas, cabeçalhos de programas, variáveis, posições no formato, compatível com o RECEIVE e APPEND. 
+
+<bullet.bmp> Provém um completo backup dos programas, exceto para os parametros do sistema. 
+
+<color=6b>SENDVAR</color>
+
+<bullet.bmp> Produz uma lista de todas as variáveis definidas no formato compativel com RECEIVE e APPEND. 
+
+<color=6b>SENDPOINT</color>
+
+<bullet.bmp> Produz uma lista de todas as posições definidas, no formato compatível com RECEIVE e APPEND. 
+
+<color=6b>SENDPAR</color>
+
+<bullet.bmp> Produz uma lista de todos os parametros, no formato compatível com RECEIVE e APPEND. 
+________________________________________________________________________________________________________________________________________________________
+
+<bullet.bmp> Após voce introduzir o comando SEND, o controlador começa a transmitir os dados. Quando alcança o fim da lista, ele transmite a linha: (END) 
+
+<i>(Vide a sua documentação de terminal para instruções exatas de envio e recebimento de arquivos.) </i>
+
+<b>Nota:</b>
+Se voce está usando o ATS, voce pode facilmente fazer back-up e restore da User RAM usando o menu de Backup Manager. 
+
+----- SHM ---- page 87 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SET <i><var1></i> = <i><var2> </i>
+SET <i><var1></i> =NOT <i><var2></i> 
+SET <i><var1></i> = COMPLEMENT <i><var2></i> 
+SET <i><var1></i> =ABS <i><var2> </i>
+SET <i><var1></i> = <i><var2> <oper> <var3> </i>
+SET <i><var1></i> =PVAL <i><pos> <eixo> </i>
+SET <i><var1></i> =PVALC <i><pos> <coord> </i>
+SET <i><var1></i> =PSTATUS <i><pos> </i>
+
+Onde: 
+<bullet.bmp> <i><var1> <var2> </i>e <i><var3></i> são variáveis definidasou constantes; 
+<bullet.bmp> <i><oper></i> é uma das seguintes: +  -  *  /  COS SIN TAN ATAN EXP LOG MOD AND OR; 
+<bullet.bmp> <i><pos></i> é uma posição definida;
+<bullet.bmp> <i><axis></i> é o número do eixo; 
+<bullet.bmp> <i><coord></i> é uma coordenada cartesiana: X ou Y ou Z ou P ou R. 
+
+<b>Descrição:</b>
+
+<color=6b>SET <i><var1> = <var2></i> </color>
+
+<bullet.bmp> A tribue o valor de <i><var2></i> para <i><var1> </i>
+
+<color=6b>SET <i><var1></i> =NOT <i><var2></i></color> 
+
+<bullet.bmp> Atribue o valor <b>lógico negativo</b> da <i><var2></i> para <i><var1> </i>. 
+
+<onestep.bmp> Se <i><var2> </i> <= 0, então <i><var1></i> = 1;
+<onestep.bmp> Se <i><var2></i> > 0, então <i><var1></i> = 0. 
+
+<color=6b>SET <i><var1></i> = COMPLEMENT <i><var2></i> </color>
+
+<bullet.bmp> Atribue o valor do <b>complemento do eixo</b> da <i><var2></i> para <i><var1>. </i>
+<bullet.bmp> O valor da <i><var2></i> é tomado, cada bit é individualmente invertido, e o resultado é atribuído para <var1>. 
+
+<color=6b>SET <i><var1></i> =ABS <i><var2> </i></color>
+
+<bullet.bmp> Seta o valor <b>absoluto</b> da <i><var1></i> para <i><var2></i>. 
+
+<color=6b>SET <i><var1></i> = <i><var2> <oper> <var3> </i></color>
+
+<onestep.bmp> Quando <i><oper></i> é: +,  -,  *,  /, MOD
+
+<bullet.bmp> A função matemática é executada na <i><var2></i> e <i><var3></i> e os resultados são armazenados na <i><var1></i>. 
+
+<onestep.bmp> Quando <i><oper></i> é: AND, OR
+
+<bullet.bmp> A operação do bit AND/OR é executada na <i><var2></i> e <i><var3></i> e o resultado é armazenado na <i><var 1>. </i>
+
+<color=4><c><b>Atenção!</b> Antes de executar qualquer função trigonométrica ou logarítimica, leia com atenção a seguinte descrição. O controlador é uma máquina inteira e valores fracionais devem ser arredondados para valores inteiros. </c></color>
+
+<onestep.bmp> Quanddo <i><oper></i> é uma função trigonométrica: COS, SIN, TAN
+
+<bullet.bmp> <i><var2></i> atua como multiplicador, e <i><var3></i> é em graus. 
+<bullet.bmp> A função trigonométrica da <i><var 3></i> é computada e então multiplicada pela <i><var2></i>. Lembre-se que o controlador usa aritmética integral, então o multiplicador deve ser grande o suficiente para dar a precisão desejada. 
+
+<onestep.bmp> Quando <i><oper></i> é uma das funções trigonométricas: ATAN, EXP, LOG
+
+<bullet.bmp> O valor da <var3> é dividido por 10.000 antes da computação ser executada. O resultado é multiplicado pela <i><var2></i>. 
+
+<bullet.bmp> O resultado da função ATAN é expresso em radianos! (<b>Nota:</b> Isto será modificado em futuras versões.) 
+
+<color=6b>SET <i><var1></i> =PVAL <i><pos> <eixo> </i></color>
+
+<bullet.bmp> Atribui <i><var></i> ao valor de junta do eixo especificado na posição especificada.
+
+<color=6b>SET <i><var1></i> =PVALC <i><pos> <coord> </i></color>
+
+<bullet.bmp> Atribui <i><var1></i> como uma das coordenadas cartesianas da posição especificada. 
+<bullet.bmp> <i><pos></i> deve ser uma posição do robo (grupo A).
+<bullet.bmp> <i><coord></i> pode ser um dos seguintes: X, Y, Z, P, R
+<bullet.bmp> X, Y, Z são especificados em décimos de milímetro.
+<bullet.bmp> P (para pulso), R (para munheca) são especificados em décimos de grau. 
+
+<color=6b>SET <i><var1></i> =PSTATUS <i><pos> </i></color>
+
+<bullet.bmp> Atribui a <i><var1></i> o valor correspondente ao status da posição especificada. 
+
+<u>Status da Posição Código </u>
+
+<bullet.bmp> Localização não definida  0.
+<bullet.bmp> Posição fixada  1 
+<bullet.bmp> Relativo a juntas para outra posição  2 
+<bullet.bmp> Relativa a compensação cartesiana para outra posição  3 
+<bullet.bmp> Relativa a juntas da posição atual  12 
+<bullet.bmp> Relativa a XYZ (compensação cartesiana) para posição atual  13 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> SET A=B
+
+<chiclet.bmp> SET A=NOT B
+<bullet.bmp> Se B é 0 então A é setado para 1; para qualquer outro valor de B, A é setado para 0.
+
+<chiclet.bmp> SET A=COMPLEMENT B
+<bullet.bmp> Se B é O então A é setado para -1 
+
+<chiclet.bmp> SET A=ABS B
+<bullet.bmp> Se B é -1 então A é setado para 1 
+
+<chiclet.bmp> SET A=B AND C
+<bullet.bmp> Se também B ou C é 0, então A é setado para 0; 
+<bullet.bmp> Se nem B ou C é O, então A é setado para 1. 
+
+<chiclet.bmp> SET A=l000 COS 60 
+<bullet.bmp> COS 60 = .5; Multiplica por 1000; A é setado para 500. 
+
+<chiclet.bmp> SET ST=PSTAT P1
+<bullet.bmp> Se P1 é uma posição fixada então a ST será atribuido o valor de 1.
+
+________________________________________________________________________________________________________________________________________________________
+
+<color=6b><u>SET e Variáveis do sistema</u></color>
+
+<b>Formato:</b>	
+
+SET ANOUT [<<i>eixo</i>>] = <<i>DAC</i>> 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta a saída análoga para o valor especificado do eixo para <DAC> . -5000 <= <i>DAC</i> <= 5000 
+
+<bullet.bmp> Usado para controle de malha aberta. 
+
+<c><color=4b>Atenção! Use com extrema cautela para evitar danos ao motor. </color></c>
+
+<b>Formato:</b>	
+
+SET OUT [<i><n></i>] = <i><state> </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta o estado da saída da porta especificada. 
+<i><state></i> = 1 (ON) ou 0 (OFF). 
+
+<b>Formato:</b>	
+
+SET <i><var></i> =TIME 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta o valor da <i><var></i> para TIME.
+
+<bullet.bmp> TIME é uma variável do sistema a qual é expressa em pulsos de 10 milisegundos a partir do momento da ativação do controlador. 
+----- SHM ---- page 88 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SETP <i><pos2> = <pos1> </i>
+
+Onde: <i><pos2></i> e <i><pos1></i> são posições definidas. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Copia o valor da <posl> para <i><pos2></i>. Ambas as posições agora tem os mesmos valores de localização. 
+
+<bullet.bmp> Este comando é útil para preparação <pos2>, então o comando SETPV pode ser usado para trocar um valor desta posição. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> SETP POINT=PLACE 
+----- SHM ---- page 89 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+<target>SETPV</target>
+<b>Formato:</b>	
+
+SETPV <i><pos></i>		(DIRETO apenas)
+SETPV <i><pos> <eixo> <valor> </i>
+
+<b>Descrição:</b>
+
+<color=6b>SETPV <i><pos></i></color>	(Similar ao comando TEACH).
+
+<bullet.bmp> Seta a localização da posição usando <b>valores de juntas</b> (unidades de encoder) para cada eixo. Voce deve entrar com os valores de todos os eixos da posição especificada. 
+
+SETPV P 
+1 -- [100] > 
+2 -- [130] > 
+3 -- [250] > 
+4 -- [120] >
+5 -- [100] > 
+Done 
+
+<bullet.bmp> O valor em chaves é o valor prévio usado para setar a posição. Digitando < ENTER > confirma o valor atual. 
+
+<bullet.bmp> Se a posição solicitada não é válida, a seguinte mensagem é mostrada: 
+
+BAD POINT COORDINATE 
+
+<color=6b>SETPV <i><pos> <eixo> <valor> </i></color>
+
+<bullet.bmp> Este comando é destinado para modificação de posição apenas. Ele permite que voce altere o valor de <b>encoder de um eixo</b> na posição gravada. 
+
+<bullet.bmp> Se voce precisa de um programa para criar uma nova posição, entre com o comando HERE para gravar a posição fixada. Os valores para todos os eixos então são setados. 
+
+<bullet.bmp> SETPV <i><pos> <eixo> <valor> </i>não irá alerta-Io de um ponto de coordenada inválido, até que ele tente e falhe em alcançá-Io. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> SETPV PS 3 1000
+<bullet.bmp> Seta o valor do eixo 3 na posição PS para 1000 
+
+<chiclet.bmp> HERE PQ 
+      SETPV PQ 1 500 
+      SETPV PQ 2 300 
+      SETPV PQ 3 200 
+      SETPV PQ 4 100 
+      SETPV PQ 5 400 
+----- SHM ---- page 90 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SETPVC <i><pos> <coord> <valor> </i>
+
+Onde: 
+<bullet.bmp> <i><pos></i> é uma posição definida do robo (grupo A), 
+<bullet.bmp> <i><coord></i> é uma coordenada cartesiana: X, Y,Z, P ou R 
+<bullet.bmp> <i><valor></i> é em décimos de milímetro (XYZ) ou graus (P,R) 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Este comando é destinado apenas para modificação de posição. Ele permite que voce altere uma coordenada cartesiana na posição previamente gravada pelo comando SETPV. 
+
+<bullet.bmp> SETPVC é para o comando TEACH como SETPV <i><pos> <eixo> <valor></i> é para o comando SET <i><pos></i>. 
+
+<bullet.bmp> SETPVC <b>não irá</b> avisá-Io de um ponto de coordenada inválido até que ele tente e falhe em alcançá-Io. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> SET XV=1000 
+      FOR I=1 TO 20 
+      SETP V[I]=START 
+      SETPVC V[I] X XV
+      SET XV=XV + 100 
+      ENDFOR 
+----- SHM ---- page 91 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SHIFT <i><pos></i> BY <i><eixo> <valor> </i>
+SHIFTC <i><pos></i> BY <i><coord> <valor></i>
+
+Onde: 
+<bullet.bmp> <i><pos> </i>é uma posição definida; 
+<bullet.bmp> <i><pos></i> para SHIFTC deve ser uma posição do robo (grupo A); 
+<bullet.bmp> <i><eixo></i> especifica o número do eixo; 
+<bullet.bmp> <i><coord></i> especifica a coordenada cartesiana: X, Y, Z, P ou R; 
+<bullet.bmp> <i><valor></i> para SHIFfC é em décimos de mm (X, Y, Z) ou grau (P ,R). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Muda a localização da posição do eixo ou coordenada dada pelo valor especificado. 
+
+<bullet.bmp> <color=6b>SHIFT:</color> coordenadas de juntas 
+
+<bullet.bmp> <color=6b>SHIFTC</color>: coordenadas cartesianas 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> SHIFTC OBJ1 BY Z 1000 
+<bullet.bmp> A Muda a posição OBJ1 por 100 mm 
+----- SHM ---- page 92 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+SHOW DIN 
+
+<b>Descrição:</b>
+
+<bullet.bmp> O status das 16 entradas individuais é mostrado no seguinte formato: 
+
+>SHOW DIN
+  1 -> 16: 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0
+  OK
+
+
+<b>Formato:</b>	
+
+SHOW DOUT
+
+<b>Descrição:</b>
+
+<bullet.bmp> O status das 16 saídas individuais é mostrado no seguinte formato: 
+
+>SHOW DOUT
+  1 -> 16: 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0
+  OK
+
+
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+SHOW ENCO
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra os valores de todos encoders a cada 0.5 segundo no seguinte formato: 
+
+  enc1     enc2     enc3     enc4     enc5     enc6     enc7     enc8
+  1000     1000     1000     2371     2371     100      100      1000
+
+ Os valores atualizados continuam piscando até que <CTRL + C > é pressionado
+
+
+<b>Formato:</b>	
+
+SHOW DAC <<i>n</i>>
+
+Onde: 
+<<i>n</i>> = número do eixo, 1 <= <<i>n</i>> <= 12
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra o valor DAC para o eixo especificado em milivolts
+
+
+<b>Formato:</b>	
+
+SHOW PAR <<i>n</i>>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra o valor do parametro do sistema <<i>n</i>>.
+
+
+
+<b>Formato:</b>	
+
+SHOW SPEED
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra as setagens atuais de velocidade. 
+
+
+<b>Exemplos</b>:
+<chiclet.bmp> >SHOW SPEED 
+      GROUP A SPEED IS: 40
+      GROUP B SPEED IS: 50 
+      O.K. 
+
+<chiclet.bmp> SHOW DAC 7 
+      DAC 7=0 
+      O.K. 
+
+<chiclet.bmp> SHOW PAR 261 
+      PAR 261=10 
+      O.K
+
+
+
+
+ 
+----- SHM ---- page 93 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SPEEDA/B <i><valor> </i>
+SPEEDC <i><valor> <eixo> </i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta o valor da velocidade atual.  
+
+<bullet.bmp> A velocidade é especificade em porcentagem. A máxima velocidade é 100; mínima é 1. O default de velocidade é 50. 
+
+<bullet.bmp> A velocidade pode ser setada para todos os eixos usando o comando SPEED. A velocidade para o grupo especificado ou o eixo no grupo C pode ser setado usando os comandos SPEEDA, SPEEDB ou SPEEDC. 
+
+<bullet.bmp> Comandos de movimento que não incluem o argumento <b>tempo</b> são executados de acordo com a velocidade setada. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> SPEED 60
+
+<chiclet.bmp> SPEEDA 30
+
+<b>Notas:</b>
+
+<bullet.bmp> Os valores mínimos e máximos de velocidade são determinados pelos parametros 298 e 299. 
+
+<bullet.bmp> O modo manual usa movimentos muito lentos cujas velocidades são relativas as setagens atuais de velocidade. O parametro 297 determina a setagem da n velocidade manual. 
+
+<bullet.bmp> Para ver a setagem da velocidade atual, digite: 
+SHOW SPEED. 
+
+----- SHM ---- page 94 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+STAT
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra o status dos programas ativos. A lista inclue prioridades de programas e status de operação. 
+
+<bullet.bmp> O programa irá informar "pendente" se ele estiver aguardando um movimento ser completado. 
+
+<b>Exemplo</b>:
+
+<chiclet.bmp> STAT
+
+      job name		prioriti		status
+<i>      nome do trabalho	prioridade	status</i>
+      BOOM		000005		DELAY
+      DEMO      		000005		PEND
+      OC			000005		DELAY
+      MVC     	     	000005                  PEND
+      SL			000005		SESPENDED
+----- SHM ---- page 95 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+STOP <i><prog></i>
+
+<b>Descrição:</b>
+
+<color=6b>STOP</color>
+
+<bullet.bmp> Aborta todos os programas em andamento e para o movimento de todos os eixos. 
+
+PROG <<i>prog</i>>
+
+<bullet.bmp> Aborta o andamento apenas do programa especificado. 
+
+<b>Exemplo</b>:
+
+<chiclet.bmp> STOP
+
+<chiclet.bmp> STOP DEMO
+----- SHM ---- page 96 ---- 
+<boxc><b>MODO: DIRETO/EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+SUSPEND <i><prog></i>
+
+<b>Descrição:</b>
+
+<bullet.bmp> Suspende a execução de um programa especificado. 
+
+<bullet.bmp> O programa completa o comando que está sendo executado, e então vai para a suspensão. 
+
+<bullet.bmp> Um programa suspenso pode ser continuado a partir do ponto da suspensão, usando o comando CONTINUE. 
+
+<b>Exemplo</b>:
+
+<chiclet.bmp> SUSPEND DEMO
+----- SHM ---- page 97 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+TEACH <i><pos> </i>
+Onde: 
+<bullet.bmp> <i><pos></i> é uma posição definida do robo (grupo A). 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta em <b>coordenadas cartesianas</b> a localização desejada dos eixos na <i><pos></i>. O controlador mostra a voce todos os valores. 
+
+<bullet.bmp> Valores X, Y e Z são em décimos de milímetro, enquanto que o punho (P) e munheca (R) são valores em décimos de grau. 
+
+<bullet.bmp> O valor entre colchetes é o valor previamente usado para ensinar a posição. Digitando < Enter > confirma-se o valor atual. 
+
+TEACH PP
+  X  --  [2000]  >
+  Y  --   [0]  >
+  Z  --  [3400]  >
+  P  --  [-900]  >
+  R  --  [0]  >
+
+<bullet.bmp> Se a posição introduzida não é valida, a seguinte mensagem é mostrada: 
+BAD POINT COORDINATE 
+
+<b>Nota</b>:
+
+<bullet.bmp> Vide comando <jump=setpv>SETPV</jump>.
+----- SHM ---- page 98 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+TEACHR <i><pos2> <pos1></i> 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Seta em <b>coordenadas cartesianas</b> a localização da <i><pos2></i> relativa a outra posição. 
+
+<bullet.bmp> Se <i><pos1></i> não é especificada, <i><pos2></i> é relativa a posição atual. 
+
+<bullet.bmp> Se <i><pos1></i> é especificada, <i><pos2></i> é <b>relativa</b> a <i><pos1></i>.
+
+<bullet.bmp> Quando <i><pos1></i> é movida, <i><pos2></i> move-se de acordo. 
+
+<bullet.bmp> X, Y e Z são valores em décimos de milímetro, enquanto pulso (P) e munheca (R) são em décimos de grau.
+
+<b>Exemplo</b>:
+
+<chiclet.bmp> TEACH OVER TABLE
+       X  [0]  >
+       Y  [0]  >
+       Z  [0]  >  2000
+       P  [0]  >
+       R  [0]  >
+
+<bullet.bmp> Posiçã OVER está 200 mm verticalmente acima da posição TABLE. 
+
+----- SHM ---- page 99 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+TEST 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Roda um programa interativo de teste de hardware.
+
+<bullet.bmp> TEST checa o servo controle de loop movendo todos os eixos definidos. Se um eixo falha, uma messagem é mostrada: 
+TEST FAILURE AXIS <i><n></i>
+
+<bullet.bmp> Esta mensagem também é dada quando eixos definidos não existem atualmente, ou quando A e B não estão conectados. 
+
+<bullet.bmp> Uma vez completo o servo teste, TEST seta todas saídas ON e então desliga-as (OFF). 
+
+<bullet.bmp> TEST então entra no modo interativo. Ele faz um scan das entradas, e para cada entrada a qual é setada (ON), TEST seta a saída correspondente. 
+
+<bullet.bmp> O comando A (abort) é o único meio de parar o programa TEST. 
+----- SHM ---- page 100 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+TON <n>
+TOFF <n>
+
+<b>Descrição:</b>
+
+<color=6b>TON</color>
+
+<bullet.bmp> Liga a proteção térmica do motor para todos os eixos, ou para o eixo especificado .
+
+<color=6b>TOFF</color>
+
+<bullet.bmp> Desliga a proteçao termlca o motor para t os eixos, ou para o eixo especificado. 
+
+O sistema irá perguntar para que voce confirme o COFF.
+
+<color=4><c><b>Atenção!</b> Tenha cautela, quando estiver no modo TOFF. Os motores não estão protegidos por nenhuma proteção de software.</c></color>
+----- SHM ---- page 101 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+TRIGGER <i><prog></i> BY IN/OUT <i><n> <estado> </i>
+
+Onde: 
+<bullet.bmp> <i><prog></i> é um nome de programa definido
+<bullet.bmp> <i><n></i> é o indice I/0, 1 <= <n> <= 16 
+<bullet.bmp> <i><estado></i> é 1 (ON) ou O (OFF) 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Ideal para sensoreamento de respostas, o comando TRIGGER inicia a execução de <i><prog></i> quando a entrada ou saída especificada é setada para <i><estado></i> . 
+
+<bullet.bmp> Se <i><estado></i> é omitido, a execução de <i><prog></i> inicia tão logo as I/0 alterem seus estados. 
+
+<bullet.bmp> TRIGGER é um comando único. Ele executa o programa apenas uma vez. Voce deve repetir o comando TRIGGER para reativar o programa.
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> TRIGGER DRILL BY IN 15 1 
+<bullet.bmp> Inicia DRILL quando a entrada 15 é setada ON. 
+
+<chiclet.bmp> TRIGGER TAKE BY OUT 8 
+<bullet.bmp> Inicia TAKE quando saída 8 altera seu estado. 
+----- SHM ---- page 102 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+UNDEF <i><pos> </i>
+UNDEF <i><pvect></i> 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Inicializa os valores da posição. As posições estão ainda definidas, mas seus valores de localização não estão mais disponíveis. 
+
+<bullet.bmp> Se <i><pvect></i> é especificado, os valores de todas as posições no vetor são inicializadas. 
+
+<bullet.bmp> Este comando é útil com o comando APPEND desde que APPEND possa atribuir um valor a posição definida, apenas quando ela já não tiver um valor de localização atribuido. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> UNDEF VECTV [ 5 ]
+<bullet.bmp> Limpa os valores da posição 5 no vetor VECTV. 
+
+<chiclet.bmp> UNDEF VECTV 
+<bullet.bmp> Limpa os valores de todas as posições no vetor VECTV.
+
+<b>Nota:</b>
+
+<bullet.bmp> Este é um comando de definição. Quando digitado, este comando é executado mas não cria uma linha de programa, mesmo quando no modo EDIÇÃO. 
+----- SHM ---- page 103 ---- 
+<boxc><b>MODO: DIRETO</b></box>
+
+<b>Formato:</b>	
+
+VER
+
+<b>Descrição:</b>
+
+<bullet.bmp> Mostra a versão da EPROM e data de criação. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> >VER
+      --  ESHED ROBOTECH  --
+      VERSION: 1.42
+      DATE: 21/07/91
+----- SHM ---- page 104 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+WAIT <i><var1> <cond> <var2> </i>
+
+Onde:
+<i><cond></i> pode ser: <, >, > =, < = ou = 
+
+<b>Descrição:</b>
+
+<bullet.bmp> A execução do programa é suspensa até que a condição especificada seja verdadeira. 
+
+<bullet.bmp> Quando um programa está esperando por uma entrada atingir um estado específico, este comando é muito útil, uma vez que WAIT usa uma pequena área da CPU enquanto aguarda por um evento. 
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> WAIT IN[J]=1
+<bullet.bmp> Aguarda até que a entrada J seja ON 
+
+<chiclet.bmp> WAIT X<Y 
+----- SHM ---- page 105 ---- 
+<boxc><b>MODO: EDIÇÃO</b></box>
+
+<b>Formato:</b>	
+
+* <comentários> 
+
+Onde:
+<bullet.bmp> <i><comentários></i> é uma string de até 40 caracteres e espaços. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Este não é um comando de execução. Ele simplesmente permite que voce inclua comentários em um texto do seu programa
+
+<b>Exemplo:</b>
+
+<chiclet.bmp> *ESTE É UM EXEMPLO DE UM COMENTARIO 
+
+
+<b>Formato:</b>	
+
+@ <i><comando DIRETO> </i>
+
+Onde: <i><comando DIRETO></i> é uma string escrita no comando DIRETO. formato. 
+
+<b>Descrição:</b>
+
+<bullet.bmp> Permite a execução de um comando DIRETO a partir de um programa em andamento. 
+
+<bullet.bmp> Para ter certeza de que o comando é executado antes que o programa continue, entre com um comando breve de espera após cada comando @. 
+
+<b>Exemplos:</b>
+
+<chiclet.bmp> @ SHOW DIN
+<bullet.bmp> Quando o programa alcança esta linha de comando, os estados de todas entradas são mostrados. 
+
+<chiclet.bmp> @ ATTACH LOAD 
+      DELAY 10 
+      @ LISTPV POSITION
+      DELAY 10 
+
+
+
+----- SHM ---- page 106 ---- 
+<boxc><b>MODO: DIRTETO</b></box>
+
+<b>Formato:</b>	
+
+~
+
+<b>Descrição:</b>
+
+<bullet.bmp> Ativa e desativa o controle manual do robo a partir do teclado. 
+
+<bullet.bmp> Quando voce digita ~,  o modo manual é ativado, e a seguinte messagem é mostrada: 
+MANUAL MODE! 
+JOINT MODE
+
+Isto indica o que o controlador está em modo manual de juntas. 
+
+<bullet.bmp> Teclas J e X troca de sistema de coordenadas para juntas e para cartesianas (XYZ), respectivamente. Entretanto, o controle do teclado difere se voce ativa o modo manual quando o controlador está em sistema de coordenadas XYZ, como assinalado pelo segundo grupo na tabela abaixo. 
+
+
+		<b><u>TECLA</u></b>		<b><u>MOVIMENTO</u></b>		<b><u>DIREÇÃO</u></b>
+
+		<b>Juntas:</b> 1/Q	Move a base 		direita/esquerda
+		2/W		move o ombro		acima/abaixo
+		3/E		move o cotovelo		acima/abaixo
+
+		4/R		move pulso-munheca	acima/abaixo
+		5/T		move pulso-munheca	direita/esquerda
+		6/Y		abre/fecha garra
+		7/U		move eixo 7		+/-
+		8/I		move eixo 8		+/-
+		9/O		move eixo 9		+/-
+		0/P		move eixo 10		+/-
+		- / [		move eixo 11		+/-
+
+		<b>XYZ</b>: 1/Q		move X			+/-
+		2/W		move Y			+/-
+		3/E		move Z			acima/abaixo
+
+<bullet.bmp> Quando voce digita ~ novamente, o modo manual é desativado, e a seguinte mensagem é mostrada:
+EXIT manua mode 
+
+<b>Nota</b> 
+
+<bullet.bmp> Quando usar o Advanced Terminal Software, voce pode ativar o modo manual pressionando < Alt > + M. Este é especialmente útil quando seu teclado não inclui o caracter ~.
+
+
+		
+

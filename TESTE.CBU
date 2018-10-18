@@ -1,0 +1,17 @@
+
+$pr 1 HOMES
+
+                PROGRAM   HOMES
+                *********************
+
+DELAY     20
+HOME      
+@INIT CONTROL
+HHOME     7
+MOVED     CIMB[1] 
+MOVE      CIM[95] 
+
+END       
+
+
+(END)
